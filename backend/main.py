@@ -1,7 +1,9 @@
 # main.py
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-import sqlite3, os, logging
+import sqlite3
+import os 
+import logging
 
 app = FastAPI()
 

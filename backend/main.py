@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import sqlite3
 import os 
 import logging
+import random
 
 app = FastAPI()
 
@@ -46,13 +47,17 @@ def get_questions(category: str):
     """, (category,))
     rows = cur.fetchall()
     conn.close()
+    
+    selected = random.sample(rows, min(10, len(rows)))
+    
     return {
         "category": category,
         "questions": [
             {"questionNumber": r[0], "question": r[1], "options": [r[2], r[3], r[4], r[5]], "correct": r[6]}
-            for r in rows
+            for r in selected
         ]
     }
+
 
 # GEÇİCİ: Debug endpoint (silmeyi unutma)
 @app.get("/_debug")

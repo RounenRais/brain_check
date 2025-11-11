@@ -2,7 +2,7 @@
 import { useState, useEffect, useMemo } from "react";
 
 const API = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
-
+// selammmm
 type Question = {
   questionNumber: number;
   question: string;
@@ -160,6 +160,7 @@ export default function QuizPage() {
                     style={{
                       padding: "8px 12px",
                       borderRadius: 6,
+                      color:"blue",
                       border: "1px solid #ccc",
                       cursor: feedback ? "not-allowed" : "pointer",
                       background:

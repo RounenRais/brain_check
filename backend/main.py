@@ -1,10 +1,8 @@
 # main.py
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-import sqlite3
-import os 
-import logging
 import random
+import json
 
 
 app = FastAPI()
@@ -18,71 +16,47 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DB_PATH = os.path.join(BASE_DIR, "db", "quiz.db")
+with open("geographyQuestion.json", "r", encoding="utf-8") as f:
+    q1 = json.load(f)
 
-logging.basicConfig(level=logging.INFO)
-app.logger = logging.getLogger("uvicorn.error")
-app.logger.info(f"Using DB at: {DB_PATH}")
+with open("historyQuestion.json", "r", encoding="utf-8") as f:
+    q2 = json.load(f)
 
+with open("mathQuestion.json", "r", encoding="utf-8") as f:
+    q3 = json.load(f)
 
-def get_conn():
-    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
-    return sqlite3.connect(DB_PATH, check_same_thread=False)
+with open("scienceQuestion.json", "r", encoding="utf-8") as f:
+    q4 = json.load(f)
+
+with open("technology.json", "r", encoding="utf-8") as f:
+    q5 = json.load(f)
+
+all_questions = q1 + q2 + q3 + q4 + q5
 
 
 @app.get("/categories")
 def get_categories():
-    conn = get_conn()
-    cur = conn.cursor()
-    cur.execute("SELECT DISTINCT category FROM questions")
-    categories = [r[0] for r in cur.fetchall()]
-    conn.close()
-    return {"categories": categories}
+    categories = {q["category"] for q in all_questions}
+    return {"categories": list(categories)}
 
 
 @app.get("/questions/{category}")
 def get_questions(category: str):
-    conn = get_conn()
-    cur = conn.cursor()
-    cur.execute("""
-        SELECT questionNumber, question, option1, option2, option3, option4, correct
-        FROM questions
-        WHERE category = ?
-    """, (category,))
+    filtered = [q for q in all_questions if q["category"] == category.lower()]
 
-    rows = cur.fetchall()
-    conn.close()
+    result = []
 
-    selected = random.sample(rows, min(10, len(rows)))
+    for i in range(1, 11):
+        same_number = [q for q in filtered if q["question_number"] == i]
 
-    questions = []
-    for r in selected:
-        options = [r[2], r[3], r[4], r[5]]  
-        random.shuffle(options)            
+        if same_number:
+            q = random.choice(same_number)
 
-        questions.append({
-            "questionNumber": r[0],
-            "question": r[1],
-            "options": options,
-            "correct": r[6]  
-        })
+            result.append({
+                "question_number": q["question_number"],
+                "question": q["question"],
+                "options": q["options"],
+                "correct": q["correct"]
+            })
 
-    return {"category": category, "questions": questions}
-
-# GEÇİCİ: Debug endpoint (silmeyi unutma)
-@app.get("/_debug")
-def debug():
-    conn = get_conn()
-    cur = conn.cursor()
-    cur.execute("SELECT name FROM sqlite_master WHERE type='table'")
-    tables = [r[0] for r in cur.fetchall()]
-    total = 0
-    by_cat = []
-    if "questions" in tables:
-        cur.execute("SELECT COUNT(*) FROM questions")
-        total = cur.fetchone()[0]
-        cur.execute("SELECT category, COUNT(*) FROM questions GROUP BY category")
-        by_cat = cur.fetchall()
-    conn.close()
-    return {"db_path": DB_PATH, "tables": tables, "total_rows": total, "rows_by_category": by_cat}
+    return {"category": category, "questions": result}

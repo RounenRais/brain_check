@@ -1,0 +1,722 @@
+[
+  {
+    "question_number": 1,
+    "question": "Who is often called the \"father of the computer\"?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "correct": "Charles Babbage",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Primary Unit",
+      "Control Processing Unit",
+      "Central Peripheral Unit"
+    ],
+    "correct": "Central Processing Unit",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "What does RAM stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Access Memory",
+      "Run All Memory"
+    ],
+    "correct": "Random Access Memory",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "Which device stores data persistently in most PCs?",
+    "options": [
+      "RAM",
+      "Hard drive / SSD",
+      "CPU",
+      "GPU"
+    ],
+    "correct": "Hard drive / SSD",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "What is the primary purpose of an operating system?",
+    "options": [
+      "Write code",
+      "Manage hardware and software resources",
+      "Design hardware",
+      "Format disks only"
+    ],
+    "correct": "Manage hardware and software resources",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "Which company created the first mass-market personal computer IBM PC in 1981?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Intel"
+    ],
+    "correct": "IBM",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "Which of these is a web browser?",
+    "options": [
+      "Chrome",
+      "Photoshop",
+      "Excel",
+      "Outlook"
+    ],
+    "correct": "Chrome",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "What is HTML mainly used for?",
+    "options": [
+      "Styling web pages",
+      "Structuring web pages",
+      "Processing data",
+      "Managing databases"
+    ],
+    "correct": "Structuring web pages",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "Which protocol is used to load web pages (default)?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correct": "HTTP",
+    "category": "Technology"
+  },
+  {
+    "question_number": 1,
+    "question": "Which language is primarily used for styling web pages?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "CSS",
+      "SQL"
+    ],
+    "correct": "CSS",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "correct": "Tim Berners-Lee",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "What year was Google founded?",
+    "options": [
+      "1995",
+      "1996",
+      "1998",
+      "2000"
+    ],
+    "correct": "1998",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "What does GPU stand for?",
+    "options": [
+      "General Processing Unit",
+      "Graphics Processing Unit",
+      "Graphical Power Unit",
+      "Global Processing Unit"
+    ],
+    "correct": "Graphics Processing Unit",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "Which of these is a relational database language?",
+    "options": [
+      "HTML",
+      "CSS",
+      "SQL",
+      "JSON"
+    ],
+    "correct": "SQL",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "Which protocol secures web traffic with encryption?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "Telnet"
+    ],
+    "correct": "HTTPS",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "What is open-source software?",
+    "options": [
+      "Software with closed code",
+      "Free software with publicly available source code",
+      "Paid enterprise software only",
+      "Malicious software"
+    ],
+    "correct": "Free software with publicly available source code",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "Which company developed the Linux kernel?",
+    "options": [
+      "Microsoft",
+      "Linus Torvalds / community",
+      "Apple",
+      "IBM"
+    ],
+    "correct": "Linus Torvalds / community",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "Which web protocol is used to send email?",
+    "options": [
+      "SMTP",
+      "HTTP",
+      "DNS",
+      "IMAP"
+    ],
+    "correct": "SMTP",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "What is a virtual machine (VM)?",
+    "options": [
+      "A type of programming language",
+      "A simulated computer environment running on a host",
+      "A physical server",
+      "A browser extension"
+    ],
+    "correct": "A simulated computer environment running on a host",
+    "category": "Technology"
+  },
+  {
+    "question_number": 2,
+    "question": "Which tool is commonly used for version control?",
+    "options": [
+      "Docker",
+      "Git",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "correct": "Git",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "Which programming language was created by James Gosling at Sun Microsystems?",
+    "options": [
+      "C#",
+      "Python",
+      "Java",
+      "Ruby"
+    ],
+    "correct": "Java",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Instruction",
+      "Automatic Program Integration",
+      "Applied Protocol Interface"
+    ],
+    "correct": "Application Programming Interface",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the main purpose of a compiler?",
+    "options": [
+      "Interpret code line by line",
+      "Convert high-level code to machine code",
+      "Store programs",
+      "Manage memory"
+    ],
+    "correct": "Convert high-level code to machine code",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "Which device connects multiple network segments and directs traffic between them?",
+    "options": [
+      "Switch",
+      "Router",
+      "Modem",
+      "Repeater"
+    ],
+    "correct": "Router",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "Which data format is commonly used for APIs and configuration?",
+    "options": [
+      "XML only",
+      "CSV only",
+      "JSON",
+      "Plain text"
+    ],
+    "correct": "JSON",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "What is DNS used for on the Internet?",
+    "options": [
+      "Encrypt traffic",
+      "Translate domain names to IP addresses",
+      "Store webpages",
+      "Manage email content"
+    ],
+    "correct": "Translate domain names to IP addresses",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "Which language is typically run in the browser to make pages interactive?",
+    "options": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "PHP"
+    ],
+    "correct": "JavaScript",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "What is HTTPS's main security mechanism?",
+    "options": [
+      "Symmetric key only",
+      "Public key cryptography and TLS",
+      "Plain HTTP with header flags",
+      "FTP tunnel"
+    ],
+    "correct": "Public key cryptography and TLS",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "What is a RESTful API characteristic?",
+    "options": [
+      "Uses RPC only",
+      "Statelessness and standard HTTP verbs",
+      "Requires SOAP envelopes",
+      "Always uses websockets"
+    ],
+    "correct": "Statelessness and standard HTTP verbs",
+    "category": "Technology"
+  },
+  {
+    "question_number": 3,
+    "question": "Which tool automates container orchestration?",
+    "options": [
+      "Docker Compose",
+      "Kubernetes",
+      "Vagrant",
+      "Ansible"
+    ],
+    "correct": "Kubernetes",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "What is ACID in the context of databases?",
+    "options": [
+      "A programming paradigm",
+      "Integrity properties: Atomicity, Consistency, Isolation, Durability",
+      "A web protocol",
+      "A file system type"
+    ],
+    "correct": "Integrity properties: Atomicity, Consistency, Isolation, Durability",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "Which query language is used with most relational databases?",
+    "options": [
+      "NoSQL",
+      "SQL",
+      "GraphQL",
+      "SML"
+    ],
+    "correct": "SQL",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "What is the primary purpose of DNS caching?",
+    "options": [
+      "Encrypt names",
+      "Reduce lookup latency and load",
+      "Store web content",
+      "Balance load across servers"
+    ],
+    "correct": "Reduce lookup latency and load",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "Which HTTP status code means 'Not Found'?",
+    "options": [
+      "200",
+      "301",
+      "404",
+      "500"
+    ],
+    "correct": "404",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "Which storage model does a document database like MongoDB use?",
+    "options": [
+      "Relational tables",
+      "Key-value or document",
+      "Graph edges",
+      "Columnar only"
+    ],
+    "correct": "Key-value or document",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "What is OAuth mainly used for?",
+    "options": [
+      "Database replication",
+      "Authorization and delegated access",
+      "Encrypting disks",
+      "Serving static files"
+    ],
+    "correct": "Authorization and delegated access",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "Which algorithmic complexity class is commonly called 'polynomial time'?",
+    "options": [
+      "O(1)",
+      "NP",
+      "P",
+      "EXP"
+    ],
+    "correct": "P",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "What does CDN stand for and do?",
+    "options": [
+      "Central Data Network, stores DBs",
+      "Content Delivery Network, caches content globally",
+      "Compute Distribution Node, runs VMs",
+      "Content Development Node, authors content"
+    ],
+    "correct": "Content Delivery Network, caches content globally",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "Which command-line tool displays network connections on many OSes?",
+    "options": [
+      "ls",
+      "ps",
+      "netstat",
+      "grep"
+    ],
+    "correct": "netstat",
+    "category": "Technology"
+  },
+  {
+    "question_number": 4,
+    "question": "What is the main purpose of a reverse proxy?",
+    "options": [
+      "Cache DNS records",
+      "Forward client requests to backend servers",
+      "Serve as a database",
+      "Compile code"
+    ],
+    "correct": "Forward client requests to backend servers",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the difference between symmetric and asymmetric encryption?",
+    "options": [
+      "Symmetric uses one key; asymmetric uses public/private key pair",
+      "Symmetric is slower",
+      "Asymmetric uses the same key",
+      "They are identical"
+    ],
+    "correct": "Symmetric uses one key; asymmetric uses public/private key pair",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "What is a container (e.g., Docker) primarily used for?",
+    "options": [
+      "Hardware virtualization",
+      "Lightweight process isolation with shared kernel",
+      "Replacing OS",
+      "Designing UI"
+    ],
+    "correct": "Lightweight process isolation with shared kernel",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "Which attack exploits weak input validation and executes SQL queries?",
+    "options": [
+      "XSS",
+      "CSRF",
+      "SQL injection",
+      "DDoS"
+    ],
+    "correct": "SQL injection",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "What is load balancing?",
+    "options": [
+      "Distributing work across multiple resources to improve performance and reliability",
+      "Encrypting data in transit",
+      "Backing up databases",
+      "Monitoring logs only"
+    ],
+    "correct": "Distributing work across multiple resources to improve performance and reliability",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "Which storage type is best for time-series sensor data in many cases?",
+    "options": [
+      "Relational OLTP",
+      "Time-series database",
+      "Block storage only",
+      "Flat files exclusively"
+    ],
+    "correct": "Time-series database",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "What does CI/CD stand for in DevOps?",
+    "options": [
+      "Continuous Integration / Continuous Delivery",
+      "Control Input / Control Deploy",
+      "Code Inspect / Code Debug",
+      "Compute Instance / Cloud Deployment"
+    ],
+    "correct": "Continuous Integration / Continuous Delivery",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "Which protocol is commonly used for remote secure shell access?",
+    "options": [
+      "FTP",
+      "Telnet",
+      "SSH",
+      "RDP"
+    ],
+    "correct": "SSH",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "What is cross-site scripting (XSS)?",
+    "options": [
+      "Server-side injection of SQL",
+      "Client-side injection of malicious scripts into web pages",
+      "A network protocol",
+      "An encryption algorithm"
+    ],
+    "correct": "Client-side injection of malicious scripts into web pages",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "Which scheduling algorithm gives priority based on shortest remaining time?",
+    "options": [
+      "Round-robin",
+      "FIFO",
+      "Shortest Remaining Time First (SRTF)",
+      "Priority with aging"
+    ],
+    "correct": "Shortest Remaining Time First (SRTF)",
+    "category": "Technology"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the CAP theorem in distributed systems?",
+    "options": [
+      "Consistency, Availability, Partition tolerance — pick two",
+      "Cache, API, Persistence",
+      "Compute, Access, Protocol",
+      "Concurrency, Async, Parallel"
+    ],
+    "correct": "Consistency, Availability, Partition tolerance — pick two",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "What is machine learning?",
+    "options": [
+      "Writing manual rules only",
+      "A field where systems learn patterns from data",
+      "A type of database",
+      "An OS feature"
+    ],
+    "correct": "A field where systems learn patterns from data",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "Which ML technique is supervised learning?",
+    "options": [
+      "Clustering without labels",
+      "Regression with labeled data",
+      "Dimensionality reduction only",
+      "Random sampling"
+    ],
+    "correct": "Regression with labeled data",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "What is container orchestration used for?",
+    "options": [
+      "Managing many containers across hosts (scheduling, scaling)",
+      "Creating containers only",
+      "Designing UIs",
+      "Encrypting containers"
+    ],
+    "correct": "Managing many containers across hosts (scheduling, scaling)",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "Which database index type is typically used for range queries?",
+    "options": [
+      "Hash index",
+      "B-tree index",
+      "Bitmap index",
+      "Full-text index"
+    ],
+    "correct": "B-tree index",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "What is eventual consistency in distributed stores?",
+    "options": [
+      "Immediate consistency across all nodes",
+      "System will become consistent if no new updates occur",
+      "Databases never agree",
+      "All writes are lost"
+    ],
+    "correct": "System will become consistent if no new updates occur",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "Which activation function is commonly used in deep networks?",
+    "options": [
+      "ReLU",
+      "Linear only",
+      "Step function only",
+      "Logarithm"
+    ],
+    "correct": "ReLU",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "What is serverless computing?",
+    "options": [
+      "No servers involved",
+      "Running functions without managing servers (provider handles infra)",
+      "Only for static sites",
+      "A desktop mode"
+    ],
+    "correct": "Running functions without managing servers (provider handles infra)",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "Which tool is commonly used for infrastructure as code?",
+    "options": [
+      "Terraform",
+      "Photoshop",
+      "Excel",
+      "Notepad"
+    ],
+    "correct": "Terraform",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "What is a bloom filter used for?",
+    "options": [
+      "Exact set membership with deletions",
+      "Probabilistic membership test with false positives allowed",
+      "Image filtering",
+      "Sorting arrays"
+    ],
+    "correct": "Probabilistic membership test with false positives allowed",
+    "category": "Technology"
+  },
+  {
+    "question_number": 6,
+    "question": "Which scheduling problem is solved by the banker's algorithm?",
+    "options": [
+      "Deadlock avoidance (resource allocation)",
+      "Shortest path",
+      "Sorting",
+      "Load balancing"
+    ],
+    "correct": "Deadlock avoidance (resource allocation)",
+    "category": "Technology"
+  }
+]

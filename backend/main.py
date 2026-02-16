@@ -1,48 +1,53 @@
-# main.py
-from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-import random
+from fastapi import FastAPI
+import os
 import json
-
+import random
 
 app = FastAPI()
 
-origins = ["http://localhost:3000", "http://127.0.0.1:3000"]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-with open("geographyQuestion.json", "r", encoding="utf-8") as f:
-    q1 = json.load(f)
 
-with open("historyQuestion.json", "r", encoding="utf-8") as f:
-    q2 = json.load(f)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_DIR = os.path.join(BASE_DIR, "Questions")
 
-with open("mathQuestion.json", "r", encoding="utf-8") as f:
-    q3 = json.load(f)
 
-with open("scienceQuestion.json", "r", encoding="utf-8") as f:
-    q4 = json.load(f)
+def load_all_questions():
+    files = [
+        "geographyQuestion.json",
+        "historyQuestion.json",
+        "mathQuestion.json",
+        "scienceQuestion.json",
+        "technologyQuestion.json"
+    ]
 
-with open("technology.json", "r", encoding="utf-8") as f:
-    q5 = json.load(f)
+    all_questions = []
+    for f_name in files:
+        path = os.path.join(DB_DIR, f_name)
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            all_questions += data
+    return all_questions
 
-all_questions = q1 + q2 + q3 + q4 + q5
+
+ALL_QUESTIONS = load_all_questions()
 
 
 @app.get("/categories")
 def get_categories():
-    categories = {q["category"] for q in all_questions}
-    return {"categories": list(categories)}
+    categories = sorted({q["category"] for q in ALL_QUESTIONS})
+    return {"categories": categories}
 
 
 @app.get("/questions/{category}")
 def get_questions(category: str):
-    filtered = [q for q in all_questions if q["category"] == category.lower()]
+    filtered = [q for q in ALL_QUESTIONS if q["category"].lower() == category]
 
     result = []
 

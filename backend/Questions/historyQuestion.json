@@ -1,0 +1,1202 @@
+[
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "George Washington",
+      "John Adams",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "correct": "George Washington"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "In which year did the United States declare independence?",
+    "options": [
+      "1776",
+      "1783",
+      "1812",
+      "1607"
+    ],
+    "correct": "1776"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "options": [
+      "Ancient Egyptians",
+      "Mesopotamians",
+      "Romans",
+      "Phoenicians"
+    ],
+    "correct": "Ancient Egyptians"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "Which river was central to ancient Egyptian civilization?",
+    "options": [
+      "Nile",
+      "Tigris",
+      "Euphrates",
+      "Amazon"
+    ],
+    "correct": "Nile"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "Who was the first emperor of unified China?",
+    "options": [
+      "Qin Shi Huang",
+      "Liu Bang",
+      "Kublai Khan",
+      "Emperor Wu"
+    ],
+    "correct": "Qin Shi Huang"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "Which civilization built Machu Picchu?",
+    "options": [
+      "Inca",
+      "Maya",
+      "Aztec",
+      "Olmec"
+    ],
+    "correct": "Inca"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "What city was the capital of the Byzantine Empire?",
+    "options": [
+      "Constantinople",
+      "Rome",
+      "Alexandria",
+      "Athens"
+    ],
+    "correct": "Constantinople"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "Which people developed cuneiform writing?",
+    "options": [
+      "Sumerians",
+      "Egyptians",
+      "Phoenicians",
+      "Hittites"
+    ],
+    "correct": "Sumerians"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "On which island was Napoleon Bonaparte finally exiled?",
+    "options": [
+      "Saint Helena",
+      "Elba",
+      "Corsica",
+      "Sicily"
+    ],
+    "correct": "Saint Helena"
+  },
+  {
+    "question_number": 1,
+    "category": "History",
+    "question": "What language was the primary official language of the Roman Empire?",
+    "options": [
+      "Latin",
+      "Greek",
+      "Aramaic",
+      "Egyptian"
+    ],
+    "correct": "Latin"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "In which year did World War I begin?",
+    "options": [
+      "1914",
+      "1918",
+      "1939",
+      "1905"
+    ],
+    "correct": "1914"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "In which year did World War II begin?",
+    "options": [
+      "1939",
+      "1914",
+      "1945",
+      "1929"
+    ],
+    "correct": "1939"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "Which year marks the fall of the Western Roman Empire?",
+    "options": [
+      "476",
+      "410",
+      "1453",
+      "330"
+    ],
+    "correct": "476"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "In which year did Columbus first reach the Americas?",
+    "options": [
+      "1492",
+      "1502",
+      "1485",
+      "1519"
+    ],
+    "correct": "1492"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "When was the Magna Carta sealed?",
+    "options": [
+      "1215",
+      "1066",
+      "1415",
+      "1314"
+    ],
+    "correct": "1215"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "What year is commonly given for the start of the French Revolution?",
+    "options": [
+      "1789",
+      "1776",
+      "1804",
+      "1799"
+    ],
+    "correct": "1789"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "When did the Berlin Wall fall?",
+    "options": [
+      "1989",
+      "1991",
+      "1979",
+      "2001"
+    ],
+    "correct": "1989"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "When was the Peace of Westphalia signed (ending Thirty Years' War)?",
+    "options": [
+      "1648",
+      "1517",
+      "1815",
+      "1701"
+    ],
+    "correct": "1648"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "In which year did the Ottoman Empire officially end (abolition of the sultanate)?",
+    "options": [
+      "1922",
+      "1918",
+      "1939",
+      "1908"
+    ],
+    "correct": "1922"
+  },
+  {
+    "question_number": 2,
+    "category": "History",
+    "question": "In what year did the American Civil War begin?",
+    "options": [
+      "1861",
+      "1850",
+      "1870",
+      "1848"
+    ],
+    "correct": "1861"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who led the Bolshevik Revolution in Russia (1917)?",
+    "options": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Nicholas II"
+    ],
+    "correct": "Vladimir Lenin"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who nailed the Ninety-Five Theses and sparked the Protestant Reformation?",
+    "options": [
+      "Martin Luther",
+      "John Calvin",
+      "Henry VIII",
+      "Ulrich Zwingli"
+    ],
+    "correct": "Martin Luther"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who led the Indian independence movement with nonviolent resistance?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "correct": "Mahatma Gandhi"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who led the Cuban Revolution that brought Castro to power?",
+    "options": [
+      "Fidel Castro",
+      "Che Guevara",
+      "Fulgencio Batista",
+      "Ra\u00fal Castro"
+    ],
+    "correct": "Fidel Castro"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who was the British Prime Minister famous for leading the UK in WWII?",
+    "options": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Stanley Baldwin"
+    ],
+    "correct": "Winston Churchill"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who was President of the United States during the Civil War?",
+    "options": [
+      "Abraham Lincoln",
+      "Ulysses S. Grant",
+      "Andrew Johnson",
+      "James Buchanan"
+    ],
+    "correct": "Abraham Lincoln"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Which Japanese era name marks the modernization beginning in 1868?",
+    "options": [
+      "Meiji",
+      "Taish\u014d",
+      "Showa",
+      "Heisei"
+    ],
+    "correct": "Meiji"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who was a famous Carthaginian general who crossed the Alps to fight Rome?",
+    "options": [
+      "Hannibal",
+      "Scipio Africanus",
+      "Carthalo",
+      "Hasdrubal"
+    ],
+    "correct": "Hannibal"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who principally authored the United States Declaration of Independence?",
+    "options": [
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "John Adams",
+      "James Madison"
+    ],
+    "correct": "Thomas Jefferson"
+  },
+  {
+    "question_number": 3,
+    "category": "History",
+    "question": "Who became ruler of France after the Revolution and crowned himself Emperor in 1804?",
+    "options": [
+      "Napoleon Bonaparte",
+      "Louis XVI",
+      "Robespierre",
+      "Louis XVIII"
+    ],
+    "correct": "Napoleon Bonaparte"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Where was Archduke Franz Ferdinand assassinated in 1914?",
+    "options": [
+      "Sarajevo",
+      "Vienna",
+      "Belgrade",
+      "Prague"
+    ],
+    "correct": "Sarajevo"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which treaty formally ended World War I with Germany?",
+    "options": [
+      "Treaty of Versailles (1919)",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Paris (1815)",
+      "Treaty of Tordesillas"
+    ],
+    "correct": "Treaty of Versailles (1919)"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which naval battle was a decisive turning point in the Pacific in WWII (1942)?",
+    "options": [
+      "Battle of Midway",
+      "Battle of the Coral Sea",
+      "Battle of Leyte Gulf",
+      "Battle of Guadalcanal"
+    ],
+    "correct": "Battle of Midway"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which conference in 1945 established the United Nations?",
+    "options": [
+      "Yalta Conference",
+      "Potsdam Conference",
+      "Tehran Conference",
+      "San Francisco Conference"
+    ],
+    "correct": "San Francisco Conference"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "What was the primary goal of the Marshall Plan after WWII?",
+    "options": [
+      "Rebuild European economies and prevent communism",
+      "Punish Germany",
+      "Partition Eastern Europe",
+      "Create NATO"
+    ],
+    "correct": "Rebuild European economies and prevent communism"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which operation was the Allied invasion of Normandy in 1944?",
+    "options": [
+      "Operation Overlord",
+      "Operation Torch",
+      "Operation Market Garden",
+      "Operation Husky"
+    ],
+    "correct": "Operation Overlord"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which 19th-century congress attempted to restore the European balance after Napoleon?",
+    "options": [
+      "Congress of Vienna (1814\u20131815)",
+      "Congress of Berlin",
+      "Congress of Aix-la-Chapelle",
+      "Congress of Paris (1856)"
+    ],
+    "correct": "Congress of Vienna (1814\u20131815)"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which Asian country was partitioned in 1947 creating two states?",
+    "options": [
+      "British India (India and Pakistan)",
+      "Korea",
+      "Vietnam",
+      "Indonesia"
+    ],
+    "correct": "British India (India and Pakistan)"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which treaty ended the Thirty Years' War and impacted state sovereignty?",
+    "options": [
+      "Peace of Westphalia (1648)",
+      "Treaty of Utrecht",
+      "Treaty of Paris (1763)",
+      "Treaty of Tilsit"
+    ],
+    "correct": "Peace of Westphalia (1648)"
+  },
+  {
+    "question_number": 4,
+    "category": "History",
+    "question": "Which event directly led the United States to enter World War II?",
+    "options": [
+      "Attack on Pearl Harbor",
+      "Sinking of the Lusitania",
+      "Invasion of Poland",
+      "D-Day landings"
+    ],
+    "correct": "Attack on Pearl Harbor"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which battle in 1954 ended major French colonial rule in Indochina?",
+    "options": [
+      "Battle of Dien Bien Phu",
+      "Battle of the Somme",
+      "Battle of Midway",
+      "Battle of Algiers"
+    ],
+    "correct": "Battle of Dien Bien Phu"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which U.S. foreign-policy doctrine (1947) committed aid to countries resisting communism?",
+    "options": [
+      "Truman Doctrine",
+      "Monroe Doctrine",
+      "Marshall Plan",
+      "Eisenhower Doctrine"
+    ],
+    "correct": "Truman Doctrine"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "What name describes the Cold War competition in arms, space, and ideology?",
+    "options": [
+      "Cold War",
+      "Great War",
+      "Pax Britannica",
+      "Thirty Years' Crisis"
+    ],
+    "correct": "Cold War"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which 20th-century process refers to former colonies gaining independence?",
+    "options": [
+      "Decolonization",
+      "Industrialization",
+      "Feudalization",
+      "Urbanization"
+    ],
+    "correct": "Decolonization"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which U.S. program provided economic recovery funds to Europe after WWII?",
+    "options": [
+      "Marshall Plan",
+      "New Deal",
+      "Point Four Program",
+      "Lend-Lease"
+    ],
+    "correct": "Marshall Plan"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which crisis in 1962 brought the U.S. and USSR close to nuclear war?",
+    "options": [
+      "Cuban Missile Crisis",
+      "Berlin Blockade",
+      "Suez Crisis",
+      "Korean War"
+    ],
+    "correct": "Cuban Missile Crisis"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which policy described containment of Soviet influence after WWII?",
+    "options": [
+      "Containment",
+      "Appeasement",
+      "Isolationism",
+      "Collective Security"
+    ],
+    "correct": "Containment"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which African country launched a major anti-colonial war against France (1954\u20131962)?",
+    "options": [
+      "Algeria",
+      "Kenya",
+      "Ghana",
+      "Nigeria"
+    ],
+    "correct": "Algeria"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which 1948 event led to the formal establishment of Israel in 1948?",
+    "options": [
+      "UN Partition Plan and subsequent war (1947\u20131949)",
+      "Balfour Declaration (1917)",
+      "Sykes-Picot Agreement",
+      "Camp David Accords"
+    ],
+    "correct": "UN Partition Plan and subsequent war (1947\u20131949)"
+  },
+  {
+    "question_number": 5,
+    "category": "History",
+    "question": "Which ideology opposed liberal capitalism and influenced many 20th-century states?",
+    "options": [
+      "Communism",
+      "Monarchism",
+      "Liberalism",
+      "Mercantilism"
+    ],
+    "correct": "Communism"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which revolution introduced mass industrial production in the 18th century?",
+    "options": [
+      "Industrial Revolution",
+      "Agricultural Revolution",
+      "Neolithic Revolution",
+      "Scientific Revolution"
+    ],
+    "correct": "Industrial Revolution"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which 19th-century invention dramatically improved long-distance communication?",
+    "options": [
+      "The telegraph",
+      "The steam engine",
+      "The spinning jenny",
+      "The printing press"
+    ],
+    "correct": "The telegraph"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which economic system is characterized by private ownership and market exchange?",
+    "options": [
+      "Capitalism",
+      "Feudalism",
+      "Communism",
+      "Mercantilism"
+    ],
+    "correct": "Capitalism"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which movement sought political rights and representation for working classes in 19th-century Europe?",
+    "options": [
+      "Labor movement",
+      "Enlightenment",
+      "Romanticism",
+      "Absolutism"
+    ],
+    "correct": "Labor movement"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which 1848 publication argued that class struggle drives historical change?",
+    "options": [
+      "The Communist Manifesto",
+      "On Liberty",
+      "Das Kapital",
+      "Wealth of Nations"
+    ],
+    "correct": "The Communist Manifesto"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which policy in Britain (19th century) removed many trade restrictions and promoted free trade?",
+    "options": [
+      "Repeal of the Corn Laws",
+      "Navigation Acts",
+      "Enclosure Acts",
+      "Factory Acts"
+    ],
+    "correct": "Repeal of the Corn Laws"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which agricultural improvement increased yields before industrialization in Britain?",
+    "options": [
+      "Selective breeding and crop rotation",
+      "Slash-and-burn",
+      "Three-field system only",
+      "Terracing"
+    ],
+    "correct": "Selective breeding and crop rotation"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which process describes mass movement from countryside to cities during industrialization?",
+    "options": [
+      "Urbanization",
+      "Colonization",
+      "Globalization",
+      "Suburbanization"
+    ],
+    "correct": "Urbanization"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which 19th-century ideology emphasized national self-determination and unity?",
+    "options": [
+      "Nationalism",
+      "Liberalism",
+      "Conservatism",
+      "Socialism"
+    ],
+    "correct": "Nationalism"
+  },
+  {
+    "question_number": 6,
+    "category": "History",
+    "question": "Which economic measure tracks average price change over time for goods and services?",
+    "options": [
+      "Inflation rate (CPI)",
+      "GDP growth rate",
+      "Unemployment rate",
+      "Balance of trade"
+    ],
+    "correct": "Inflation rate (CPI)"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "Which historian is associated with the Annales School?",
+    "options": [
+      "Fernand Braudel",
+      "Edward Gibbon",
+      "Leopold von Ranke",
+      "Will Durant"
+    ],
+    "correct": "Fernand Braudel"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "What does 'primary source' mean in historical research?",
+    "options": [
+      "Original material produced at the time under study",
+      "A modern textbook summary",
+      "A later historian's interpretation",
+      "A fictional account"
+    ],
+    "correct": "Original material produced at the time under study"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "Which method emphasizes long-term social structures over events?",
+    "options": [
+      "Longue durée",
+      "Great man theory",
+      "Positivist chronology",
+      "Whig history"
+    ],
+    "correct": "Longue durée"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "What does 'revisionist history' typically involve?",
+    "options": [
+      "Reinterpreting established narratives in light of new evidence",
+      "Repeating classic accounts without change",
+      "Ignoring primary sources",
+      "Creating myths"
+    ],
+    "correct": "Reinterpreting established narratives in light of new evidence"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "Which historian emphasized empirical archival research and political narrative?",
+    "options": [
+      "Leopold von Ranke",
+      "Fernand Braudel",
+      "Herodotus",
+      "Thucydides"
+    ],
+    "correct": "Leopold von Ranke"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "Which concept studies how ordinary people's experiences shape history?",
+    "options": [
+      "Social history",
+      "Diplomatic history",
+      "Military history",
+      "Intellectual history"
+    ],
+    "correct": "Social history"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "Which source type is oral history?",
+    "options": [
+      "Primary source (interviews and testimonies)",
+      "Secondary source only",
+      "Tertiary compilation",
+      "Fictional narrative"
+    ],
+    "correct": "Primary source (interviews and testimonies)"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "What does 'anachronism' mean in historical interpretation?",
+    "options": [
+      "Assigning later ideas to earlier periods erroneously",
+      "Using only primary sources",
+      "Studying many time periods",
+      "Comparing two contemporaries"
+    ],
+    "correct": "Assigning later ideas to earlier periods erroneously"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "Which approach examines gender roles and relations in history?",
+    "options": [
+      "Gender history",
+      "Economic determinism",
+      "Whig interpretation",
+      "Diplomatic analysis"
+    ],
+    "correct": "Gender history"
+  },
+  {
+    "question_number": 7,
+    "category": "History",
+    "question": "Which term describes a bias favoring one's own nation's history?",
+    "options": [
+      "Nationalist bias",
+      "Chronological bias",
+      "Methodological skepticism",
+      "Pluralist approach"
+    ],
+    "correct": "Nationalist bias"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which document begins with 'When in the Course of human events'?",
+    "options": [
+      "United States Declaration of Independence",
+      "Magna Carta",
+      "Bill of Rights (US)",
+      "English Petition of Right"
+    ],
+    "correct": "United States Declaration of Independence"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "The 'Letter from Birmingham Jail' (1963) was written by which leader?",
+    "options": [
+      "Martin Luther King Jr.",
+      "Malcolm X",
+      "Rosa Parks",
+      "W. E. B. Du Bois"
+    ],
+    "correct": "Martin Luther King Jr."
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which 18th-century document established principles of popular sovereignty in France?",
+    "options": [
+      "Declaration of the Rights of Man and of the Citizen (1789)",
+      "Code Napoleon",
+      "Edict of Nantes",
+      "Treaty of Paris (1783)"
+    ],
+    "correct": "Declaration of the Rights of Man and of the Citizen (1789)"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which primary source is most useful to study economic life in a city?",
+    "options": [
+      "Tax records and merchants' account books",
+      "Poems and plays only",
+      "Military dispatches",
+      "Royal decrees only"
+    ],
+    "correct": "Tax records and merchants' account books"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which report exposed social conditions in industrial Britain (1840s) and influenced reform?",
+    "options": [
+      "Reports by social investigators and commissions",
+      "Magna Carta",
+      "Federalist Papers",
+      "Treaty of Westphalia"
+    ],
+    "correct": "Reports by social investigators and commissions"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which 19th-century British act reformed parliamentary representation (1832)?",
+    "options": [
+      "Great Reform Act (Reform Act 1832)",
+      "Corn Laws",
+      "Factory Act",
+      "Navigation Acts"
+    ],
+    "correct": "Great Reform Act (Reform Act 1832)"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which primary evidence would best show public opinion in the 18th century?",
+    "options": [
+      "Pamphlets, newspapers, and petitions",
+      "Official treaties alone",
+      "Only royal proclamations",
+      "Astronomical charts"
+    ],
+    "correct": "Pamphlets, newspapers, and petitions"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which economic cause contributed to the French Revolution's outbreak?",
+    "options": [
+      "Regressive taxation and fiscal crisis",
+      "Excessive industrial growth",
+      "Abundant grain harvests",
+      "Complete financial stability"
+    ],
+    "correct": "Regressive taxation and fiscal crisis"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which feature distinguishes a primary from a secondary source?",
+    "options": [
+      "Primary is contemporary to the events described",
+      "Primary is always written by historians",
+      "Secondary is older than primary",
+      "Primary is fictional"
+    ],
+    "correct": "Primary is contemporary to the events described"
+  },
+  {
+    "question_number": 8,
+    "category": "History",
+    "question": "Which type of source best reveals elite diplomatic intentions?",
+    "options": [
+      "Privileged diplomatic correspondence and treaties",
+      "Oral folklore only",
+      "Agricultural manuals",
+      "Fiction novels"
+    ],
+    "correct": "Privileged diplomatic correspondence and treaties"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which concept compares imperial control across different empires?",
+    "options": [
+      "Comparative imperialism",
+      "National exceptionalism",
+      "Localism",
+      "Isolationism"
+    ],
+    "correct": "Comparative imperialism"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "What is a macrohistorical approach?",
+    "options": [
+      "Studying large-scale patterns across centuries",
+      "Focusing only on individual biographies",
+      "Examining a single document in isolation",
+      "Performing laboratory experiments"
+    ],
+    "correct": "Studying large-scale patterns across centuries"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which theme analyzes how trade networks shaped early modern globalization?",
+    "options": [
+      "Atlantic and Indian Ocean trade networks",
+      "Space exploration",
+      "Industrial labor laws",
+      "Modern welfare states"
+    ],
+    "correct": "Atlantic and Indian Ocean trade networks"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which method studies how environmental factors influence historical change?",
+    "options": [
+      "Environmental history",
+      "Purely political history",
+      "Numismatics only",
+      "Astrology"
+    ],
+    "correct": "Environmental history"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which ideological movement influenced 19th-century national unifications (Italy, Germany)?",
+    "options": [
+      "Romantic nationalism",
+      "Classical liberalism",
+      "Orthodoxy",
+      "Feudalism"
+    ],
+    "correct": "Romantic nationalism"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which factor was central to the Industrial Revolution's geographic origins in Britain?",
+    "options": [
+      "Access to coal, capital, and markets",
+      "Absence of waterways",
+      "Low population density",
+      "Complete isolation from trade"
+    ],
+    "correct": "Access to coal, capital, and markets"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which historiographical turn emphasized culture, language, and symbols since the 1970s?",
+    "options": [
+      "The cultural turn",
+      "The political turn",
+      "The mechanistic turn",
+      "The numerical turn"
+    ],
+    "correct": "The cultural turn"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which comparative question would a historian ask about revolutions?",
+    "options": [
+      "How did social structure influence revolutionary outcomes?",
+      "What is the color of the flag?",
+      "Who wrote the national anthem?",
+      "What is the exact temperature on the first day?"
+    ],
+    "correct": "How did social structure influence revolutionary outcomes?"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which global process after 1945 reshaped former colonies politically and economically?",
+    "options": [
+      "Decolonization and Cold War competition",
+      "Renaissance",
+      "Feudal restoration",
+      "Mercantilist expansion"
+    ],
+    "correct": "Decolonization and Cold War competition"
+  },
+  {
+    "question_number": 9,
+    "category": "History",
+    "question": "Which evidence best supports an argument about popular protest patterns?",
+    "options": [
+      "Cross-regional protest records, petitions, and police reports",
+      "Single elite diary only",
+      "Weather reports alone",
+      "Architectural plans"
+    ],
+    "correct": "Cross-regional protest records, petitions, and police reports"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which explanation best synthesizes causes of large-scale revolutions?",
+    "options": [
+      "Interaction of structural economic stress, political crisis, and cultural shifts",
+      "Only individual leaders cause revolutions",
+      "Weather is the sole cause",
+      "Revolutions are random events with no cause"
+    ],
+    "correct": "Interaction of structural economic stress, political crisis, and cultural shifts"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which approach best analyzes empire decline across centuries?",
+    "options": [
+      "Integrate economic, military, cultural, and environmental factors comparatively",
+      "Focus only on military defeat",
+      "Ignore internal political factors",
+      "Study a single biography only"
+    ],
+    "correct": "Integrate economic, military, cultural, and environmental factors comparatively"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which historiographical debate centers on whether ideology or material conditions drive change?",
+    "options": [
+      "Structure vs. agency (materialist vs. ideational explanations)",
+      "Ancient vs. modern debate",
+      "Textual vs. oral triviality",
+      "Chronological ordering dispute"
+    ],
+    "correct": "Structure vs. agency (materialist vs. ideational explanations)"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which research design is strongest to test a causal claim about economic growth and democratization?",
+    "options": [
+      "Cross-national statistical analysis combined with case studies",
+      "Single anecdote",
+      "Random selection of songs",
+      "Ignoring data entirely"
+    ],
+    "correct": "Cross-national statistical analysis combined with case studies"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which primary-source critique is essential when using colonial archives?",
+    "options": [
+      "Consider author perspective, purpose, and power relations",
+      "Assume all documents are unbiased",
+      "Use only translated summaries",
+      "Ignore context"
+    ],
+    "correct": "Consider author perspective, purpose, and power relations"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which concept addresses historical continuity amid change?",
+    "options": [
+      "Longue durée",
+      "Whig teleology",
+      "Epic chronology",
+      "Selective amnesia"
+    ],
+    "correct": "Longue durée"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which comparative method helps identify causal mechanisms in history?",
+    "options": [
+      "Most-similar and most-different systems design",
+      "Random guessing",
+      "Only reading poetry",
+      "Excluding counterexamples"
+    ],
+    "correct": "Most-similar and most-different systems design"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which practice improves reliability of quantitative history research?",
+    "options": [
+      "Transparency in data sources, coding decisions, and robustness checks",
+      "Hiding raw data",
+      "Reporting only favorable results",
+      "Using single-case evidence only"
+    ],
+    "correct": "Transparency in data sources, coding decisions, and robustness checks"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which argument best exemplifies synthesis across ecological and social history?",
+    "options": [
+      "Climate variability altered agricultural surplus and hence social institutions",
+      "Climate had no historical effect",
+      "Only elites mattered in all changes",
+      "Technology is irrelevant"
+    ],
+    "correct": "Climate variability altered agricultural surplus and hence social institutions"
+  },
+  {
+    "question_number": 10,
+    "category": "History",
+    "question": "Which research output demonstrates original historical contribution?",
+    "options": [
+      "A well-argued thesis combining new sources and methodologically sound analysis",
+      "A list of dates without argument",
+      "A translation without commentary",
+      "A summary of Wikipedia entries"
+    ],
+    "correct": "A well-argued thesis combining new sources and methodologically sound analysis"
+  }
+]

@@ -1,0 +1,712 @@
+[
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "NaCl"],
+    "correct": "H2O"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correct": "Mars"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What gas do humans exhale?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "correct": "Carbon Dioxide"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+    "correct": "Nucleus"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "Which part of the plant makes food?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "correct": "Leaf"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What force keeps us on the ground?",
+    "options": ["Friction", "Gravity", "Magnetism", "Inertia"],
+    "correct": "Gravity"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "95°C", "100°C", "110°C"],
+    "correct": "100°C"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What part of the human body pumps blood?",
+    "options": ["Brain", "Lungs", "Heart", "Liver"],
+    "correct": "Heart"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "What type of energy does a moving object have?",
+    "options": ["Potential", "Thermal", "Kinetic", "Chemical"],
+    "correct": "Kinetic"
+  },
+  {
+    "question_number": 1,
+    "category": "Science",
+    "question": "Which of these is a noble gas?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+    "correct": "Helium"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "What gas do plants absorb during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct": "Carbon Dioxide"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correct": "Mercury"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Iron", "Diamond", "Gold", "Quartz"],
+    "correct": "Diamond"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "Which part of the cell controls its activities?",
+    "options": ["Nucleus", "Cytoplasm", "Membrane", "Vacuole"],
+    "correct": "Nucleus"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "What is measured in Newtons?",
+    "options": ["Force", "Energy", "Speed", "Mass"],
+    "correct": "Force"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "What is the main gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct": "Nitrogen"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "What type of energy is stored in food?",
+    "options": ["Thermal", "Kinetic", "Chemical", "Electrical"],
+    "correct": "Chemical"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "What instrument measures temperature?",
+    "options": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+    "correct": "Thermometer"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "Which blood cells help fight infection?",
+    "options": ["Red cells", "White cells", "Platelets", "Plasma"],
+    "correct": "White cells"
+  },
+  {
+    "question_number": 2,
+    "category": "Science",
+    "question": "What is the main source of energy for Earth?",
+    "options": ["Wind", "Sun", "Water", "Geothermal"],
+    "correct": "Sun"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "correct": "Jupiter"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What part of the human body controls movement and balance?",
+    "options": ["Cerebrum", "Cerebellum", "Brainstem", "Spinal cord"],
+    "correct": "Cerebellum"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["G", "Ag", "Au", "Go"],
+    "correct": "Au"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What phenomenon causes rainbows?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+    "correct": "Dispersion"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What is the process by which liquid water changes to vapor?",
+    "options": ["Condensation", "Freezing", "Evaporation", "Melting"],
+    "correct": "Evaporation"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What gas do humans need to survive?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "correct": "Oxygen"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What is the unit of electrical current?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "correct": "Ampere"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What type of blood cells carry oxygen?",
+    "options": ["Red cells", "White cells", "Platelets", "Plasma"],
+    "correct": "Red cells"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "Which organ in the body filters blood?",
+    "options": ["Heart", "Kidneys", "Lungs", "Liver"],
+    "correct": "Kidneys"
+  },
+  {
+    "question_number": 3,
+    "category": "Science",
+    "question": "What is the main organ of the nervous system?",
+    "options": ["Heart", "Brain", "Lungs", "Liver"],
+    "correct": "Brain"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "correct": "Mitochondria"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "Which planet has the most confirmed moons (as of recent counts)?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "correct": "Saturn"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What is the process by which plants make their food?",
+    "options": ["Respiration", "Photosynthesis", "Fermentation", "Transpiration"],
+    "correct": "Photosynthesis"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What is the study of living organisms called?",
+    "options": ["Physics", "Chemistry", "Biology", "Astronomy"],
+    "correct": "Biology"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What part of the human eye controls the amount of light entering?",
+    "options": ["Pupil", "Iris", "Lens", "Cornea"],
+    "correct": "Iris"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "Which vitamin is produced by the skin in sunlight?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "correct": "Vitamin D"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What is the smallest unit of matter that retains chemical properties?",
+    "options": ["Molecule", "Atom", "Proton", "Cell"],
+    "correct": "Atom"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What part of the plant absorbs water?",
+    "options": ["Stem", "Root", "Leaf", "Flower"],
+    "correct": "Root"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What is the process by which ice turns directly into vapor?",
+    "options": ["Condensation", "Sublimation", "Evaporation", "Melting"],
+    "correct": "Sublimation"
+  },
+  {
+    "question_number": 4,
+    "category": "Science",
+    "question": "What is the closest star to Earth?",
+    "options": ["Sirius", "Alpha Centauri", "Sun", "Proxima Centauri"],
+    "correct": "Sun"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "What is Newton’s third law of motion?",
+    "options": [
+      "F = ma",
+      "For every action, there is an equal and opposite reaction",
+      "Energy cannot be created or destroyed",
+      "An object at rest stays at rest"
+    ],
+    "correct": "For every action, there is an equal and opposite reaction"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "What type of blood does the universal donor have?",
+    "options": ["A", "B", "AB", "O negative"],
+    "correct": "O negative"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "What is the main function of red blood cells?",
+    "options": ["Fight infection", "Carry oxygen", "Produce hormones", "Store nutrients"],
+    "correct": "Carry oxygen"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "Which element is necessary for aerobic respiration?",
+    "options": ["Hydrogen", "Oxygen", "Nitrogen", "Helium"],
+    "correct": "Oxygen"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "What is the SI unit of power?",
+    "options": ["Volt", "Newton", "Watt", "Joule"],
+    "correct": "Watt"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "Which part of the brain helps regulate breathing and heart rate?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hippocampus"],
+    "correct": "Medulla oblongata"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "What is the most abundant element in the universe?",
+    "options": ["Oxygen", "Hydrogen", "Carbon", "Helium"],
+    "correct": "Hydrogen"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "What process do living organisms use to release energy from glucose?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+    "correct": "Respiration"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Iron", "Sodium", "Lead"],
+    "correct": "Mercury"
+  },
+  {
+    "question_number": 5,
+    "category": "Science",
+    "question": "Which gas is a major contributor to the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "correct": "Carbon Dioxide"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "Which acid is H2SO4 commonly known as?",
+    "options": ["Nitric acid", "Sulfuric acid", "Hydrochloric acid", "Acetic acid"],
+    "correct": "Sulfuric acid"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Anemometer", "Hygrometer"],
+    "correct": "Barometer"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "Which process converts sugar into energy in cells when oxygen is present?",
+    "options": ["Respiration", "Photosynthesis", "Fermentation", "Osmosis"],
+    "correct": "Respiration"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "What part of the cell contains genetic material?",
+    "options": ["Cytoplasm", "Nucleus", "Cell wall", "Ribosome"],
+    "correct": "Nucleus"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "Which gas is most responsible for anthropogenic global warming?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "correct": "Carbon Dioxide"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "Which country launched the first artificial satellite (Sputnik) in 1957?",
+    "options": ["USA", "USSR", "China", "UK"],
+    "correct": "USSR"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "What is the most abundant element in the human body by mass?",
+    "options": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+    "correct": "Oxygen"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "Which process describes water movement through a plant from root to leaf?",
+    "options": ["Translocation", "Transpiration stream", "Diffusion", "Osmosis"],
+    "correct": "Transpiration stream"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "What device measures wind speed?",
+    "options": ["Barometer", "Hygrometer", "Anemometer", "Thermometer"],
+    "correct": "Anemometer"
+  },
+  {
+    "question_number": 6,
+    "category": "Science",
+    "question": "Which scale measures earthquake magnitude?",
+    "options": ["Mercalli", "Fujita", "Beaufort", "Richter"],
+    "correct": "Richter"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "What is the approximate speed of light in vacuum?",
+    "options": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "3,000 km/s"],
+    "correct": "300,000 km/s"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "Which organ filters blood and produces urine?",
+    "options": ["Liver", "Heart", "Kidneys", "Lungs"],
+    "correct": "Kidneys"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "Which planet is famous for its Great Red Spot (a long-lived storm)?",
+    "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+    "correct": "Jupiter"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "What is the basic structural and functional unit of life?",
+    "options": ["Atom", "Molecule", "Cell", "Tissue"],
+    "correct": "Cell"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "Which pigment captures light for photosynthesis?",
+    "options": ["Hemoglobin", "Chlorophyll", "Carotene", "Melanin"],
+    "correct": "Chlorophyll"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "Which of these is an example of a renewable energy source?",
+    "options": ["Coal", "Oil", "Wind", "Natural gas"],
+    "correct": "Wind"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "What temperature does water freeze at (Celsius)?",
+    "options": ["-5°C", "0°C", "10°C", "32°C"],
+    "correct": "0°C"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correct": "Stratosphere"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "Which phenomenon explains why the sky is blue?",
+    "options": ["Rayleigh scattering", "Refraction", "Diffraction", "Total internal reflection"],
+    "correct": "Rayleigh scattering"
+  },
+  {
+    "question_number": 7,
+    "category": "Science",
+    "question": "What is the primary fuel for most stars during the main sequence?",
+    "options": ["Helium fusion", "Hydrogen fusion", "Carbon burning", "Neutron capture"],
+    "correct": "Hydrogen fusion"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "Which blood type is known as the universal donor for transfusions?",
+    "options": ["A", "B", "O negative", "AB positive"],
+    "correct": "O negative"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "What part of the plant root increases surface area for absorption?",
+    "options": ["Root hairs", "Root cap", "Cortex", "Xylem"],
+    "correct": "Root hairs"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "What is the main greenhouse gas produced by livestock digestion?",
+    "options": ["Carbon dioxide", "Methane", "Ozone", "Nitrous oxide"],
+    "correct": "Methane"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "Which organ produces insulin to regulate blood glucose?",
+    "options": ["Liver", "Pancreas", "Kidney", "Thyroid"],
+    "correct": "Pancreas"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "Which scientist formulated the three laws of motion?",
+    "options": ["Einstein", "Newton", "Galileo", "Kepler"],
+    "correct": "Newton"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "What is the primary driving force for ocean currents on a global scale?",
+    "options": ["Wind alone", "Thermohaline circulation", "Tides only", "Earthquakes"],
+    "correct": "Thermohaline circulation"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "Which device converts alternating current (AC) to direct current (DC)?",
+    "options": ["Transformer", "Rectifier", "Inverter", "Generator"],
+    "correct": "Rectifier"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "What is the main structural polymer in plant cell walls?",
+    "options": ["Collagen", "Chitin", "Cellulose", "Keratin"],
+    "correct": "Cellulose"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "Which particle has negligible mass compared to protons and neutrons?",
+    "options": ["Electron", "Proton", "Neutron", "Alpha particle"],
+    "correct": "Electron"
+  },
+  {
+    "question_number": 8,
+    "category": "Science",
+    "question": "Which vitamin deficiency causes scurvy?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12"],
+    "correct": "Vitamin C"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "Which planet is often called Earth's twin because of similar size and composition?",
+    "options": ["Mars", "Venus", "Mercury", "Uranus"],
+    "correct": "Venus"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "What is the primary function of hemoglobin in blood?",
+    "options": ["Fight infection", "Carry oxygen", "Clot blood", "Digest food"],
+    "correct": "Carry oxygen"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "Which law relates pressure and volume of a gas at constant temperature (PV = constant)?",
+    "options": ["Charles's law", "Boyle's law", "Avogadro's law", "Gay-Lussac's law"],
+    "correct": "Boyle's law"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "What is the term for species interaction where both benefit?",
+    "options": ["Parasitism", "Commensalism", "Mutualism", "Competition"],
+    "correct": "Mutualism"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "Which instrument is used to separate mixtures by density via spinning?",
+    "options": ["Spectrometer", "Centrifuge", "Chromatograph", "Diffraction grating"],
+    "correct": "Centrifuge"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "Which principle states that no two electrons in an atom can have the same set of quantum numbers?",
+    "options": ["Pauli exclusion principle", "Heisenberg uncertainty principle", "Hund's rule", "Aufbau principle"],
+    "correct": "Pauli exclusion principle"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "Which layer of Earth is liquid and generates the magnetic field?",
+    "options": ["Inner core", "Outer core", "Mantle", "Crust"],
+    "correct": "Outer core"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "What is the pH of a neutral aqueous solution at 25°C?",
+    "options": ["pH 0", "pH 7", "pH 14", "pH 5"],
+    "correct": "pH 7"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "Which reaction type releases energy and increases temperature of the surroundings?",
+    "options": ["Endothermic", "Exothermic", "Isothermal", "Adiabatic"],
+    "correct": "Exothermic"
+  },
+  {
+    "question_number": 9,
+    "category": "Science",
+    "question": "Which astronomical object is defined as a star that has exhausted hydrogen in its core and expanded?",
+    "options": ["White dwarf", "Red giant", "Neutron star", "Protostar"],
+    "correct": "Red giant"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "Which gas law combines Boyle's, Charles's and Avogadro's laws into one relation (pV = nRT)?",
+    "options": ["Ideal gas law", "Dalton's law", "Henry's law", "Graham's law"],
+    "correct": "Ideal gas law"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "What is the basic mechanism of antibiotic action for penicillin?",
+    "options": [
+      "Inhibits DNA replication",
+      "Disrupts cell wall synthesis",
+      "Blocks protein synthesis on ribosomes",
+      "Destroys cell membranes directly"
+    ],
+    "correct": "Disrupts cell wall synthesis"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "Which biomolecule is the primary carrier of genetic information in most organisms?",
+    "options": ["RNA", "DNA", "Protein", "Lipid"],
+    "correct": "DNA"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "Which branch of physics studies very small scales (atomic and subatomic)?",
+    "options": ["Classical mechanics", "Thermodynamics", "Quantum mechanics", "Fluid dynamics"],
+    "correct": "Quantum mechanics"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "What is the SI unit of electric resistance?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "correct": "Ohm"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "Which process in cells produces the most ATP under aerobic conditions?",
+    "options": ["Glycolysis", "Fermentation", "Oxidative phosphorylation (electron transport chain)", "Pentose phosphate pathway"],
+    "correct": "Oxidative phosphorylation (electron transport chain)"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "Which particle mediates the electromagnetic force?",
+    "options": ["Gluon", "Photon", "W boson", "Graviton"],
+    "correct": "Photon"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "Which astronomical measurement gives distance based on parallax?",
+    "options": ["Luminosity", "Redshift", "Parsec", "Magnitude"],
+    "correct": "Parsec"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "What property of a wave is unchanged when it passes into another medium if frequency remains constant?",
+    "options": ["Speed only", "Wavelength only", "Frequency only", "Neither"],
+    "correct": "Frequency only"
+  },
+  {
+    "question_number": 10,
+    "category": "Science",
+    "question": "Which technique uses PCR to amplify DNA for analysis?",
+    "options": ["Polymerase chain reaction (PCR) itself", "Gel electrophoresis", "Sanger sequencing", "CRISPR-Cas9"],
+    "correct": "Polymerase chain reaction (PCR) itself"
+  }
+]

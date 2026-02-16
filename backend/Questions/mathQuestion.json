@@ -1,0 +1,1202 @@
+[
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 3x - 7 = 11",
+    "options": [
+      "x = 6",
+      "x = 18",
+      "x = 3",
+      "x = -6"
+    ],
+    "correct": "x = 6"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 5x + 2 = 2x + 14",
+    "options": [
+      "x = 4",
+      "x = -4",
+      "x = 6",
+      "x = 2"
+    ],
+    "correct": "x = 4"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: (x / 4) + 3 = 7",
+    "options": [
+      "x = 8",
+      "x = 12",
+      "x = 14",
+      "x = 16"
+    ],
+    "correct": "x = 16"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 2(2x - 5) = 3x + 1",
+    "options": [
+      "x = 11",
+      "x = -9",
+      "x = 11",
+      "x = -?"
+    ],
+    "correct": "x = 11"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 7x - 4 = 2(3x + 1)",
+    "options": [
+      "x = 6",
+      "x = -6",
+      "x = 2",
+      "x = 1"
+    ],
+    "correct": "x = 2"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 0.5x + 1.5 = 2.5",
+    "options": [
+      "x = 1",
+      "x = 2",
+      "x = 3",
+      "x = 0"
+    ],
+    "correct": "x = 2"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 4x / 3 = 8",
+    "options": [
+      "x = 6",
+      "x = 4",
+      "x = 5",
+      "x = 3"
+    ],
+    "correct": "x = 6"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: x - 3 = 1/2",
+    "options": [
+      "x = 3.5",
+      "x = 2.5",
+      "x = 4",
+      "x = 5"
+    ],
+    "correct": "x = 3.5"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 9x = 54",
+    "options": [
+      "x = 6",
+      "x = 5",
+      "x = 7",
+      "x = 8"
+    ],
+    "correct": "x = 6"
+  },
+  {
+    "question_number": 1,
+    "category": "Math",
+    "question": "Solve for x: 6 - x = 2",
+    "options": [
+      "x = 4",
+      "x = -4",
+      "x = 8",
+      "x = 2"
+    ],
+    "correct": "x = 4"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve: x^2 + 6x + 5 = 0",
+    "options": [
+      "x = -1 or -5",
+      "x = 1 or 5",
+      "x = -6 or -1",
+      "x = -5 only"
+    ],
+    "correct": "x = -1 or -5"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve: 2x^2 - 5x - 3 = 0",
+    "options": [
+      "x = 3 or -0.5",
+      "x = -3 or 0.5",
+      "x = 1 or -3",
+      "x = -1 or 3"
+    ],
+    "correct": "x = 3 or -0.5"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "If x^2 - 4x + k = 0 has one solution, find k",
+    "options": [
+      "k = 4",
+      "k = -4",
+      "k = 0",
+      "k = 8"
+    ],
+    "correct": "k = 4"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve: (x - 2)(x + 3) = 5",
+    "options": [
+      "x = 3 or -4",
+      "x = 4 or -3",
+      "x = 5 or -1",
+      "x = 1 or -5"
+    ],
+    "correct": "x = 3 or -4"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve: x^2 = 5x",
+    "options": [
+      "x = 0 or 5",
+      "x = 1 or 5",
+      "x = -5 or 0",
+      "x = 5 only"
+    ],
+    "correct": "x = 0 or 5"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve: x(x - 7) + 10 = 0",
+    "options": [
+      "x = 5 or 2",
+      "x = -5 or 2",
+      "x = 7 or -10",
+      "x = 0 or 7"
+    ],
+    "correct": "x = 5 or 2"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve: (x + 1)^2 = 9",
+    "options": [
+      "x = 2 or -4",
+      "x = 3 or -3",
+      "x = -2 or 4",
+      "x = 1 or -3"
+    ],
+    "correct": "x = 2 or -4"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve the system: { x + y = 7; x - y = 1 }",
+    "options": [
+      "x=4, y=3",
+      "x=3, y=4",
+      "x=5, y=2",
+      "x=2, y=5"
+    ],
+    "correct": "x=4, y=3"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "For which x is x^2 - 2x - 8 > 0?",
+    "options": [
+      "x < -2 or x > 4",
+      "-2 < x < 4",
+      "x > -2",
+      "x < 4"
+    ],
+    "correct": "x < -2 or x > 4"
+  },
+  {
+    "question_number": 2,
+    "category": "Math",
+    "question": "Solve: |x - 3| = 5",
+    "options": [
+      "x = 8 or -2",
+      "x = 5 or 1",
+      "x = -8 or 2",
+      "x = 3 only"
+    ],
+    "correct": "x = 8 or -2"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Solve the system: { x + y = 5; x^2 + y^2 = 13 }",
+    "options": [
+      "x = 2, y = 3",
+      "x = 3, y = 2",
+      "x = -2, y = -3",
+      "x = 3, y = -2"
+    ],
+    "correct": "x = 2, y = 3"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Solve the system: { 1/x + 1/y = 1/2; x - y = 2 }",
+    "options": [
+      "x = 4, y = 2",
+      "x = 3, y = 1",
+      "x = 6, y = 4",
+      "x = 2, y = 0"
+    ],
+    "correct": "x = 4, y = 2"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "For which value of k does the system have infinitely many solutions? { 2x + 4y = 6; kx + 2ky = 3k }",
+    "options": [
+      "k = 1",
+      "k = 2",
+      "k = 3",
+      "k ≠ 0"
+    ],
+    "correct": "k = 1"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Solve the system: { |x - y| = 2; x + y = 6 }",
+    "options": [
+      "x = 4, y = 2",
+      "x = 2, y = 4",
+      "x = 5, y = 1",
+      "x = 1, y = 5"
+    ],
+    "correct": "x = 4, y = 2"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Solve the system: { x^2 - y = 7; x + y = 5 }",
+    "options": [
+      "x = 3, y = 2",
+      "x = -2, y = 7",
+      "x = 2, y = 3",
+      "x = -3, y = 8"
+    ],
+    "correct": "x = 3, y = 2"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Determine the number of solutions: { 3x + 2y = 6; 6x + 4y = 15 }",
+    "options": [
+      "No solution",
+      "One solution",
+      "Infinitely many solutions",
+      "Two solutions"
+    ],
+    "correct": "No solution"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Solve the system: { x/y = 2; x + y = 9 }",
+    "options": [
+      "x = 6, y = 3",
+      "x = 3, y = 6",
+      "x = 4.5, y = 4.5",
+      "x = 2, y = 7"
+    ],
+    "correct": "x = 6, y = 3"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Solve the system: { x + y = 4; (x - y)^2 = 4 }",
+    "options": [
+      "x = 3, y = 1",
+      "x = 1, y = 3",
+      "x = 2, y = 2",
+      "x = 4, y = 0"
+    ],
+    "correct": "x = 3, y = 1"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Solve the system: { 2x + y = 5; x^2 = y + 1 }",
+    "options": [
+      "x = 2, y = 1",
+      "x = -1, y = 7",
+      "x = 1, y = 3",
+      "x = 3, y = -1"
+    ],
+    "correct": "x = 2, y = 1"
+  },
+  {
+    "question_number": 3,
+    "category": "Math",
+    "question": "Find all solutions: { x + y = 1; xy = -6 }",
+    "options": [
+      "x = 3, y = -2",
+      "x = -3, y = 2",
+      "x = 2, y = -3",
+      "x = 1, y = 0"
+    ],
+    "correct": "x = 3, y = -2"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Simplify the expression: log_2(8x) - log_2(x), where x > 0",
+    "options": [
+      "3",
+      "x",
+      "log_2(8)",
+      "3x"
+    ],
+    "correct": "3"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Solve for x: 2^(x + 1) = 4^(x - 2)",
+    "options": [
+      "x = 5",
+      "x = 3",
+      "x = 1",
+      "x = -1"
+    ],
+    "correct": "x = 5"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Solve: log_3(x - 1) + log_3(x - 3) = 2",
+    "options": [
+      "x = 4",
+      "x = 5",
+      "x = 6",
+      "No solution"
+    ],
+    "correct": "x = 5"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Solve for x: e^(2x) - 5e^x + 6 = 0",
+    "options": [
+      "x = ln 2 or ln 3",
+      "x = 2 or 3",
+      "x = ln 5 or ln 6",
+      "x = 1 or 2"
+    ],
+    "correct": "x = ln 2 or ln 3"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Simplify: ln(e^(x + 1)) - ln(e)",
+    "options": [
+      "x",
+      "x + 1",
+      "x - 1",
+      "1"
+    ],
+    "correct": "x"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Solve: 10^(2x) = 0.001",
+    "options": [
+      "x = -3/2",
+      "x = -3",
+      "x = 3/2",
+      "x = -1"
+    ],
+    "correct": "x = -3/2"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "If f(x) = 2^(x - 1), find f(3)",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "16"
+    ],
+    "correct": "4"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Find the domain of: log_5(x - 4)",
+    "options": [
+      "x > 4",
+      "x ≥ 4",
+      "x ≠ 4",
+      "All real numbers"
+    ],
+    "correct": "x > 4"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Solve: 4^(x) = 2^(2x + 2)",
+    "options": [
+      "x = -1",
+      "x = 1",
+      "x = 2",
+      "x = 0"
+    ],
+    "correct": "x = -1"
+  },
+  {
+    "question_number": 4,
+    "category": "Math",
+    "question": "Solve: ln(x) = 1 - ln(x)",
+    "options": [
+      "x = e^(1/2)",
+      "x = e",
+      "x = 1",
+      "No solution"
+    ],
+    "correct": "x = e^(1/2)"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Find the value of: sin(π/3) · cos(π/6)",
+    "options": [
+      "3/4",
+      "√3/4",
+      "1/2",
+      "√3/2"
+    ],
+    "correct": "3/4"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Simplify: sin(x) / cos(x)",
+    "options": [
+      "tan(x)",
+      "cot(x)",
+      "sin^2(x)",
+      "1 / tan(x)"
+    ],
+    "correct": "tan(x)"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Solve for x in [0, 2π): sin(x) = 1/2",
+    "options": [
+      "x = π/6 or 5π/6",
+      "x = π/3 or 2π/3",
+      "x = π/6 only",
+      "x = 5π/6 only"
+    ],
+    "correct": "x = π/6 or 5π/6"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Simplify using identities: 1 - cos^2(x)",
+    "options": [
+      "sin^2(x)",
+      "cos(x)",
+      "1",
+      "tan^2(x)"
+    ],
+    "correct": "sin^2(x)"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Solve for x in [0, 2π): cos(x) = -1/2",
+    "options": [
+      "x = 2π/3 or 4π/3",
+      "x = π/3 or 5π/3",
+      "x = π only",
+      "x = 3π/2"
+    ],
+    "correct": "x = 2π/3 or 4π/3"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Evaluate: tan(π/3) · sin(π/6)",
+    "options": [
+      "√3/2",
+      "1/2",
+      "√3",
+      "1"
+    ],
+    "correct": "√3/2"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Which identity is always true?",
+    "options": [
+      "1 + tan^2(x) = sec^2(x)",
+      "tan(x) = sin^2(x) + cos^2(x)",
+      "sin(x) = cos(x)",
+      "cos(x) = 1 - sin(x)"
+    ],
+    "correct": "1 + tan^2(x) = sec^2(x)"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Simplify: sin(2x) / (2 sin(x))",
+    "options": [
+      "cos(x)",
+      "sin(x)",
+      "tan(x)",
+      "1"
+    ],
+    "correct": "cos(x)"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Find all x in [0, 2π): tan(x) = 1",
+    "options": [
+      "x = π/4 or 5π/4",
+      "x = π/6 or 7π/6",
+      "x = π/3 or 4π/3",
+      "x = π/2 or 3π/2"
+    ],
+    "correct": "x = π/4 or 5π/4"
+  },
+  {
+    "question_number": 5,
+    "category": "Math",
+    "question": "Evaluate: cos(π) + sin(π/2)",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "correct": "0"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Compute the limit: lim_{x→0} (1 - cos(x)) / x**2",
+    "options": [
+      "1/2",
+      "1",
+      "0",
+      "2"
+    ],
+    "correct": "1/2"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Find f'(2) for f(x) = x**3 - 3*x**2.",
+    "options": [
+      "0",
+      "1",
+      "6",
+      "-3"
+    ],
+    "correct": "0"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Equation of the tangent line to y = x**2 at x = 1.",
+    "options": [
+      "y = 2*x - 1",
+      "y = x - 1",
+      "y = 2*x + 1",
+      "y = x + 1"
+    ],
+    "correct": "y = 2*x - 1"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Compute derivative: d/dx [ln(x**2)].",
+    "options": [
+      "2 / x",
+      "ln(2x)",
+      "1 / x**2",
+      "2 * ln(x)"
+    ],
+    "correct": "2 / x"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Evaluate the definite integral: ∫_0^1 x dx.",
+    "options": [
+      "1/2",
+      "1",
+      "1/3",
+      "2"
+    ],
+    "correct": "1/2"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Find critical points of f(x) = x**3 - 3*x.",
+    "options": [
+      "x = -1 and x = 1",
+      "x = 0 only",
+      "x = -3 and x = 3",
+      "No critical points"
+    ],
+    "correct": "x = -1 and x = 1"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Compute limit: lim_{n→∞} (1 + 1/n)**n.",
+    "options": [
+      "e",
+      "1",
+      "∞",
+      "0"
+    ],
+    "correct": "e"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "d/dx [sin(2*x)] equals:",
+    "options": [
+      "2*cos(2*x)",
+      "cos(2*x)",
+      "2*sin(2*x)",
+      "cos(x)"
+    ],
+    "correct": "2*cos(2*x)"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Area under y = 1 from x = 0 to x = 3 is:",
+    "options": [
+      "3",
+      "1",
+      "0",
+      "6"
+    ],
+    "correct": "3"
+  },
+  {
+    "question_number": 6,
+    "category": "Math",
+    "question": "Find derivative at x = 1 of x**x.",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "2"
+    ],
+    "correct": "1"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Evaluate the definite integral: ∫_0^{ln 2} e^{2*x} dx",
+    "options": [
+      "3/2",
+      "1/2",
+      "2",
+      "ln 2"
+    ],
+    "correct": "3/2"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Does the series ∑_{n=1}^∞ 1/n**2 converge?",
+    "options": [
+      "Yes, converges",
+      "No, diverges",
+      "Converges only conditionally",
+      "Depends on n"
+    ],
+    "correct": "Yes, converges"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Solve the ODE: dy/dx = 3*y, with y(0)=2.",
+    "options": [
+      "y = 2*e^{3*x}",
+      "y = 3*e^{2*x}",
+      "y = 2 + 3*x",
+      "y = e^{3*x}"
+    ],
+    "correct": "y = 2*e^{3*x}"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Evaluate the improper integral: ∫_1^{∞} 1/x**2 dx",
+    "options": [
+      "1",
+      "∞",
+      "0",
+      "1/2"
+    ],
+    "correct": "1"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Second-degree Taylor polynomial of e^x at 0:",
+    "options": [
+      "1 + x + x**2 / 2",
+      "1 + x",
+      "e^x",
+      "1 + x + x**3 / 6"
+    ],
+    "correct": "1 + x + x**2 / 2"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Compute ∫_0^{π} sin(x) dx.",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "π"
+    ],
+    "correct": "2"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Sum of infinite geometric series with a = 3, r = 1/4:",
+    "options": [
+      "4",
+      "3/4",
+      "1",
+      "12"
+    ],
+    "correct": "4"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Solve separable DE: dy/dx = x, y(0)=1.",
+    "options": [
+      "y = x**2 / 2 + 1",
+      "y = x + 1",
+      "y = x**2 + 1",
+      "y = 1"
+    ],
+    "correct": "y = x**2 / 2 + 1"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Value of d/dx [x**x] at x = 1:",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "2"
+    ],
+    "correct": "1"
+  },
+  {
+    "question_number": 7,
+    "category": "Math",
+    "question": "Compute ∫_0^1 1 / (1 + x**2) dx.",
+    "options": [
+      "π / 4",
+      "1",
+      "ln 2",
+      "1/2"
+    ],
+    "correct": "π / 4"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "determinant of matrix [[2, 1], [1, 2]] is:",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "0"
+    ],
+    "correct": "3"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "Eigenvalues of diag(2, 3) are:",
+    "options": [
+      "2 and 3",
+      "1 and 5",
+      "0 and 5",
+      "2 and -3"
+    ],
+    "correct": "2 and 3"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "Matrix A = [[1, 2], [2, 4]] has rank:",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "correct": "1"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "Inverse of [[1, 2], [3, 4]] equals:",
+    "options": [
+      "[[-2, 1], [1.5, -0.5]]",
+      "[[2, -1], [-1.5, 0.5]]",
+      "[[4, -2], [-3, 1]]",
+      "Matrix is not invertible"
+    ],
+    "correct": "[[-2, 1], [1.5, -0.5]]"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "Trace of a matrix equals:",
+    "options": [
+      "Sum of eigenvalues (counted with multiplicity)",
+      "Determinant",
+      "Number of nonzero rows",
+      "Rank squared"
+    ],
+    "correct": "Sum of eigenvalues (counted with multiplicity)"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^{-1} = Q^{T}",
+      "Q = Q^{2}",
+      "det(Q) = 0",
+      "Q is diagonal"
+    ],
+    "correct": "Q^{-1} = Q^{T}"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "Eigenvector of [[2, 1], [1, 2]] corresponding to eigenvalue 3 is proportional to:",
+    "options": [
+      "[1, 1]",
+      "[1, -1]",
+      "[2, -1]",
+      "[0, 1]"
+    ],
+    "correct": "[1, 1]"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "Projection of (2, 1) onto (1, 0) is:",
+    "options": [
+      "(2, 0)",
+      "(1, 0)",
+      "(2, 1)",
+      "(0, 1)"
+    ],
+    "correct": "(2, 0)"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "Solve linear system: A x = b with A = [[1, 0, 0], [0, 2, 0], [0, 0, 3]] and b = [1, 2, 3]. x = ?",
+    "options": [
+      "[1, 1, 1]",
+      "[1, 1, 1/3]",
+      "[1, 1, 0]",
+      "[1, 1, 3]"
+    ],
+    "correct": "[1, 1, 1]"
+  },
+  {
+    "question_number": 8,
+    "category": "Math",
+    "question": "If A is 2x2 with det(A) = 5, det(2*A) equals:",
+    "options": [
+      "20",
+      "10",
+      "5",
+      "2"
+    ],
+    "correct": "20"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "Probability of at least one head in 3 fair coin flips:",
+    "options": [
+      "7/8",
+      "3/8",
+      "1/8",
+      "1"
+    ],
+    "correct": "7/8"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "Expected value of a fair six-sided die:",
+    "options": [
+      "3.5",
+      "3",
+      "4",
+      "21"
+    ],
+    "correct": "3.5"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "Variance of fair six-sided die (1..6):",
+    "options": [
+      "35 / 12",
+      "2",
+      "3.5",
+      "6"
+    ],
+    "correct": "35 / 12"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "P(X = 2) for Binomial(n=3, p=1/2):",
+    "options": [
+      "3/8",
+      "1/8",
+      "1/2",
+      "3/4"
+    ],
+    "correct": "3/8"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "Two balls drawn without replacement from 2 red, 3 blue. P(both red)?",
+    "options": [
+      "1 / 10",
+      "2 / 5",
+      "1 / 5",
+      "3 / 10"
+    ],
+    "correct": "1 / 10"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "Which statement describes the Central Limit Theorem?",
+    "options": [
+      "Sample mean approximates normal for large n",
+      "Sample mean equals population mean for any n",
+      "Distribution becomes uniform for large n",
+      "Variance goes to zero for large n"
+    ],
+    "correct": "Sample mean approximates normal for large n"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "For Poisson(λ), mean equals:",
+    "options": [
+      "λ",
+      "√λ",
+      "λ^2",
+      "1/λ"
+    ],
+    "correct": "λ"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "Approximately what percentage lies within 1σ of mean in normal dist.?",
+    "options": [
+      "About 68%",
+      "About 95%",
+      "About 50%",
+      "About 99.7%"
+    ],
+    "correct": "About 68%"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "If A and B independent, P(A ∩ B) equals:",
+    "options": [
+      "P(A) * P(B)",
+      "P(A) + P(B)",
+      "P(A) - P(B)",
+      "0"
+    ],
+    "correct": "P(A) * P(B)"
+  },
+  {
+    "question_number": 9,
+    "category": "Math",
+    "question": "Sample space of one fair coin toss is:",
+    "options": [
+      "{H, T}",
+      "{0, 1, 2}",
+      "R",
+      "Empty set"
+    ],
+    "correct": "{H, T}"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Solve for real x: x**4 - 5*x**2 + 4 = 0.",
+    "options": [
+      "x = ±1, ±2",
+      "x = ±1 only",
+      "x = ±2 only",
+      "No real roots"
+    ],
+    "correct": "x = ±1, ±2"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "How many integer pairs (x, y) satisfy x**2 + y**2 = 25?",
+    "options": [
+      "12",
+      "8",
+      "4",
+      "16"
+    ],
+    "correct": "12"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Compute the telescoping sum: ∑_{n=1}^N 1/(n(n+1)).",
+    "options": [
+      "1 - 1/(N + 1)",
+      "1/(N + 1)",
+      "N/(N + 1)",
+      "1"
+    ],
+    "correct": "1 - 1/(N + 1)"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Minimum of x + 1/x for x > 0 is:",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "No minimum"
+    ],
+    "correct": "2"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Solve congruence 3*x ≡ 1 (mod 7).",
+    "options": [
+      "x ≡ 5 (mod 7)",
+      "x ≡ 3 (mod 7)",
+      "x ≡ 1 (mod 7)",
+      "No solution"
+    ],
+    "correct": "x ≡ 5 (mod 7)"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Number of onto functions from a 3-element set to a 2-element set:",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "2"
+    ],
+    "correct": "6"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Number of distinct strings from 3 R's and 2 B's:",
+    "options": [
+      "10",
+      "5",
+      "15",
+      "20"
+    ],
+    "correct": "10"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Area of right triangle with legs 3 and 4 is:",
+    "options": [
+      "6",
+      "12",
+      "7",
+      "24"
+    ],
+    "correct": "6"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "Evaluate ∫_0^{π/2} sin**2(x) dx.",
+    "options": [
+      "π / 4",
+      "π / 2",
+      "1",
+      "0"
+    ],
+    "correct": "π / 4"
+  },
+  {
+    "question_number": 10,
+    "category": "Math",
+    "question": "gcd(2**100 - 1, 2**50 - 1) equals:",
+    "options": [
+      "2**50 - 1",
+      "1",
+      "2**100 - 1",
+      "2**25 - 1"
+    ],
+    "correct": "2**50 - 1"
+  }
+]

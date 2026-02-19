@@ -1,8 +1,23 @@
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
+from db.auth import sign_up, login
+from pydantic import BaseModel
+import sqlite3
 import os
 import json
 import random
+
+
+class RegUsers(BaseModel):
+    mail: str
+    username: str
+    password: str
+
+
+class LoginUsers(BaseModel):
+    username: str
+    password: str
+
 
 app = FastAPI()
 
@@ -16,6 +31,12 @@ app.add_middleware(
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_DIR = os.path.join(BASE_DIR, "Questions")
+DB_PATH = os.path.join(BASE_DIR, "brain_check.db")
+
+
+def get_conn():
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
+    return sqlite3.connect(DB_PATH, check_same_thread=False)
 
 
 def load_all_questions():
@@ -47,7 +68,11 @@ def get_categories():
 
 @app.get("/questions/{category}")
 def get_questions(category: str):
-    filtered = [q for q in ALL_QUESTIONS if q["category"].lower() == category]
+    filtered = [
+        q
+        for q in ALL_QUESTIONS
+        if q["category"].lower() == category.lower()
+    ]
 
     result = []
 
@@ -65,3 +90,24 @@ def get_questions(category: str):
             })
 
     return {"category": category, "questions": result}
+
+
+@app.post("/sign_up")
+async def add_user(user: RegUsers):
+    reg = sign_up(user.mail, user.username, user.password)
+
+    if reg:
+        return {
+            "mail": user.mail,
+            "username": user.username,
+            "score": 0
+        }
+
+    return {"error": "User already exists"}
+
+
+@app.post("/login")
+async def verify_login(user: LoginUsers):
+    if login(user.username, user.password):
+        return {"message": f"Welcome, {user.username}"}
+    return {"error": "Wrong username or password"}

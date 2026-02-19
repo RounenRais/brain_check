@@ -1,0 +1,1190 @@
+[
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "correct": "George Washington"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "In which year did Christopher Columbus first reach the Americas?",
+    "options": [
+      "1492",
+      "1502",
+      "1485",
+      "1519"
+    ],
+    "correct": "1492"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Which ancient civilization built the pyramids at Giza?",
+    "options": [
+      "Egyptians",
+      "Romans",
+      "Greeks",
+      "Persians"
+    ],
+    "correct": "Egyptians"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Who was the Roman general who became dictator and was assassinated in 44 BCE?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Cicero",
+      "Pompey"
+    ],
+    "correct": "Julius Caesar"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "What was the city-state famous for its philosophers and democracy in ancient Greece?",
+    "options": [
+      "Sparta",
+      "Athens",
+      "Thebes",
+      "Corinth"
+    ],
+    "correct": "Athens"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Which English queen reigned during the Elizabethan era?",
+    "options": [
+      "Elizabeth I",
+      "Mary I",
+      "Victoria",
+      "Anne"
+    ],
+    "correct": "Elizabeth I"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Who was the first person to set foot on the Moon (1969)?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correct": "Neil Armstrong"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Which country started the Industrial Revolution?",
+    "options": [
+      "England",
+      "France",
+      "Germany",
+      "Italy"
+    ],
+    "correct": "England"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Who was known as the Maid of Orléans?",
+    "options": [
+      "Joan of Arc",
+      "Marie Antoinette",
+      "Catherine the Great",
+      "Elizabeth I"
+    ],
+    "correct": "Joan of Arc"
+  },
+  {
+    "question_number": 1,
+    "category": "Geography",
+    "question": "Which ancient city was destroyed by Mount Vesuvius?",
+    "options": [
+      "Pompeii",
+      "Athens",
+      "Carthage",
+      "Sparta"
+    ],
+    "correct": "Pompeii"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "In which year did World War I begin?",
+    "options": [
+      "1914",
+      "1918",
+      "1939",
+      "1905"
+    ],
+    "correct": "1914"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "Which treaty officially ended World War I in 1919?",
+    "options": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of Tordesillas"
+    ],
+    "correct": "Treaty of Versailles"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "Who led the Bolsheviks in the Russian Revolution of 1917?",
+    "options": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Nicholas II"
+    ],
+    "correct": "Vladimir Lenin"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "Which English king was defeated at the Battle of Hastings in 1066?",
+    "options": [
+      "Harold II",
+      "William II",
+      "Edward the Confessor",
+      "Henry I"
+    ],
+    "correct": "Harold II"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "Who wrote the Declaration of Independence (main author)?",
+    "options": [
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "John Adams",
+      "James Madison"
+    ],
+    "correct": "Thomas Jefferson"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "What year did the Berlin Wall fall?",
+    "options": [
+      "1989",
+      "1991",
+      "1979",
+      "1985"
+    ],
+    "correct": "1989"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "Which explorer circumnavigated the globe (voyage completed by his crew) in the early 16th century?",
+    "options": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "James Cook"
+    ],
+    "correct": "Ferdinand Magellan"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "Which English queen was executed during the Tudor period?",
+    "options": [
+      "Anne Boleyn",
+      "Elizabeth I",
+      "Mary I",
+      "Catherine Parr"
+    ],
+    "correct": "Anne Boleyn"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "What major event is associated with July 14, 1789 in France?",
+    "options": [
+      "Storming of the Bastille",
+      "Execution of Louis XVI",
+      "Signing of the Treaty of Paris",
+      "Start of the Reign of Terror"
+    ],
+    "correct": "Storming of the Bastille"
+  },
+  {
+    "question_number": 2,
+    "category": "Geography",
+    "question": "Which empire captured Constantinople in 1453?",
+    "options": [
+      "Ottoman Empire",
+      "Byzantine Empire",
+      "Holy Roman Empire",
+      "Mongol Empire"
+    ],
+    "correct": "Ottoman Empire"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Who was the British Prime Minister during most of World War II?",
+    "options": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Stanley Baldwin"
+    ],
+    "correct": "Winston Churchill"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Which Chinese dynasty is credited with building large sections of the Great Wall?",
+    "options": [
+      "Ming",
+      "Qing",
+      "Tang",
+      "Han"
+    ],
+    "correct": "Ming"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Who started the Protestant Reformation by posting the Ninety-Five Theses?",
+    "options": [
+      "Martin Luther",
+      "John Calvin",
+      "Henry VIII",
+      "Ulrich Zwingli"
+    ],
+    "correct": "Martin Luther"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Which conflict was fought between the North and South in the United States from 1861–1865?",
+    "options": [
+      "American Civil War",
+      "American Revolution",
+      "War of 1812",
+      "Spanish-American War"
+    ],
+    "correct": "American Civil War"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Which Mongol ruler established the Yuan dynasty in China?",
+    "options": [
+      "Kublai Khan",
+      "Genghis Khan",
+      "Ogedei Khan",
+      "Batu Khan"
+    ],
+    "correct": "Kublai Khan"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Who led the Indian independence movement with nonviolent civil disobedience?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "correct": "Mahatma Gandhi"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "What was the main name for the economic system of medieval Europe based on lords and vassals?",
+    "options": [
+      "Feudalism",
+      "Mercantilism",
+      "Capitalism",
+      "Socialism"
+    ],
+    "correct": "Feudalism"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Which 18th-century intellectual movement emphasized reason and individualism?",
+    "options": [
+      "The Enlightenment",
+      "Romanticism",
+      "Renaissance",
+      "Reformation"
+    ],
+    "correct": "The Enlightenment"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Who was the Emperor of France defeated at Waterloo in 1815?",
+    "options": [
+      "Napoleon Bonaparte",
+      "Louis XVI",
+      "Charles de Gaulle",
+      "Louis-Napoleon"
+    ],
+    "correct": "Napoleon Bonaparte"
+  },
+  {
+    "question_number": 3,
+    "category": "Geography",
+    "question": "Which city was the heart of the Aztec Empire?",
+    "options": [
+      "Tenochtitlan",
+      "Cuzco",
+      "Chichen Itza",
+      "Teotihuacan"
+    ],
+    "correct": "Tenochtitlan"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "Which two countries were the main antagonists in the Cold War?",
+    "options": [
+      "USA and USSR",
+      "USA and China",
+      "Germany and France",
+      "UK and USSR"
+    ],
+    "correct": "USA and USSR"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "What was the purpose of the Marshall Plan after World War II?",
+    "options": [
+      "Rebuild European economies",
+      "Punish Germany",
+      "Create NATO",
+      "Start the UN"
+    ],
+    "correct": "Rebuild European economies"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "Which empire was split into East and West after 285 CE?",
+    "options": [
+      "Roman Empire",
+      "Persian Empire",
+      "Byzantine Empire",
+      "Ottoman Empire"
+    ],
+    "correct": "Roman Empire"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "Which naval battle (1942) was a turning point in the Pacific during World War II?",
+    "options": [
+      "Battle of Midway",
+      "Battle of the Coral Sea",
+      "Battle of Leyte Gulf",
+      "Battle of Guadalcanal"
+    ],
+    "correct": "Battle of Midway"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "Which conference in 1945 led to decisions about postwar Europe and the United Nations' founding?",
+    "options": [
+      "Yalta Conference",
+      "Versailles Conference",
+      "Congress of Vienna",
+      "Potsdam Conference"
+    ],
+    "correct": "Yalta Conference"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "Which empire built the road network centered on its capital at Cuzco?",
+    "options": [
+      "Inca Empire",
+      "Aztec Empire",
+      "Maya Civilization",
+      "Olmec"
+    ],
+    "correct": "Inca Empire"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "Which event in 1848 sparked revolutions across Europe?",
+    "options": [
+      "Revolutions of 1848",
+      "Crimean War",
+      "Unification of Germany",
+      "Congress of Vienna"
+    ],
+    "correct": "Revolutions of 1848"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "What was the major outcome of the Peace of Westphalia (1648)?",
+    "options": [
+      "Recognition of state sovereignty",
+      "End of the Napoleonic Wars",
+      "Start of the Renaissance",
+      "Creation of the Holy Roman Empire"
+    ],
+    "correct": "Recognition of state sovereignty"
+  },
+  {
+    "question_number": 4,
+    "category": "Geography",
+    "question": "Which ancient Mesopotamian people developed cuneiform writing?",
+    "options": [
+      "Sumerians",
+      "Babylonians",
+      "Assyrians",
+      "Hittites"
+    ],
+    "correct": "Sumerians"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which 20th-century process describes former colonies gaining independence?",
+    "options": [
+      "Decolonization",
+      "Industrialization",
+      "Globalization",
+      "Urbanization"
+    ],
+    "correct": "Decolonization"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which doctrine announced in 1947 committed US support to countries resisting communism?",
+    "options": [
+      "Truman Doctrine",
+      "Monroe Doctrine",
+      "Marshall Plan",
+      "Roosevelt Doctrine"
+    ],
+    "correct": "Truman Doctrine"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which major 19th-century movement advocated workers' rights and socialism?",
+    "options": [
+      "Labor movement",
+      "Enlightenment",
+      "Romanticism",
+      "Renaissance"
+    ],
+    "correct": "Labor movement"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which 19th-century political ideology emphasized national self-determination?",
+    "options": [
+      "Nationalism",
+      "Liberalism",
+      "Conservatism",
+      "Feudalism"
+    ],
+    "correct": "Nationalism"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which 19th-century economic system is associated with Adam Smith's ideas?",
+    "options": [
+      "Capitalism",
+      "Feudalism",
+      "Communism",
+      "Mercantilism"
+    ],
+    "correct": "Capitalism"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which 20th-century event led to the creation of the state of Israel in 1948?",
+    "options": [
+      "UN Partition Plan and 1948 war",
+      "Balfour Declaration (1917)",
+      "Sykes-Picot Agreement",
+      "Yalta Conference"
+    ],
+    "correct": "UN Partition Plan and 1948 war"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which 1950–1953 war involved North and South Korea?",
+    "options": [
+      "Korean War",
+      "Vietnam War",
+      "Chinese Civil War",
+      "Indochina War"
+    ],
+    "correct": "Korean War"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which ideology sought to overthrow capitalist systems and establish classless societies?",
+    "options": [
+      "Communism",
+      "Liberalism",
+      "Fascism",
+      "Monarchism"
+    ],
+    "correct": "Communism"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which movement in the mid-20th century fought for civil rights and racial equality in the USA?",
+    "options": [
+      "Civil Rights Movement",
+      "Temperance Movement",
+      "Suffrage Movement",
+      "Progressive Movement"
+    ],
+    "correct": "Civil Rights Movement"
+  },
+  {
+    "question_number": 5,
+    "category": "Geography",
+    "question": "Which global alliance was formed in 1949 as a collective defense pact?",
+    "options": [
+      "NATO",
+      "Warsaw Pact",
+      "UN",
+      "EU"
+    ],
+    "correct": "NATO"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which economic revolution transformed production in the 18th–19th centuries?",
+    "options": [
+      "Industrial Revolution",
+      "Agricultural Revolution",
+      "Neolithic Revolution",
+      "Information Revolution"
+    ],
+    "correct": "Industrial Revolution"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "What term describes mass movement from countryside to cities during industrialization?",
+    "options": [
+      "Urbanization",
+      "Colonization",
+      "Globalization",
+      "Feudalization"
+    ],
+    "correct": "Urbanization"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which 19th-century publication argued class struggle drives historical change?",
+    "options": [
+      "The Communist Manifesto",
+      "On Liberty",
+      "Wealth of Nations",
+      "The Social Contract"
+    ],
+    "correct": "The Communist Manifesto"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which 19th-century British reform removed many trade restrictions on grain?",
+    "options": [
+      "Repeal of the Corn Laws",
+      "Navigation Acts",
+      "Factory Acts",
+      "Enclosure Acts"
+    ],
+    "correct": "Repeal of the Corn Laws"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which concept refers to the long-term structures shaping history (Braudel)?",
+    "options": [
+      "Longue durée",
+      "Whig history",
+      "Great man theory",
+      "Annales"
+    ],
+    "correct": "Longue durée"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which demographic transition feature often accompanies industrialization?",
+    "options": [
+      "Declining death rates then declining birth rates",
+      "Immediate population decline",
+      "No change in population",
+      "Instant urban depopulation"
+    ],
+    "correct": "Declining death rates then declining birth rates"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which 19th-century ideology combined national unity and romantic cultural identity?",
+    "options": [
+      "Romantic nationalism",
+      "Classical liberalism",
+      "Mercantilism",
+      "Absolutism"
+    ],
+    "correct": "Romantic nationalism"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which institution grew stronger as state bureaucracies expanded in the 19th century?",
+    "options": [
+      "Civil service",
+      "Guilds",
+      "Feudal courts",
+      "Local manors"
+    ],
+    "correct": "Civil service"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which transportation innovation accelerated trade and movement in the 19th century?",
+    "options": [
+      "Railways",
+      "Canals",
+      "Paved roads",
+      "Hot air balloons"
+    ],
+    "correct": "Railways"
+  },
+  {
+    "question_number": 6,
+    "category": "Geography",
+    "question": "Which agricultural improvement helped feed growing industrial populations?",
+    "options": [
+      "Crop rotation and selective breeding",
+      "Slash-and-burn",
+      "Three-field system only",
+      "Terracing only"
+    ],
+    "correct": "Crop rotation and selective breeding"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "Which historian is most associated with the Annales School and longue durée?",
+    "options": [
+      "Fernand Braudel",
+      "Leopold von Ranke",
+      "Edward Gibbon",
+      "Will Durant"
+    ],
+    "correct": "Fernand Braudel"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "What is a primary source in historical research?",
+    "options": [
+      "Contemporary evidence from the period studied",
+      "A modern textbook",
+      "A later historian's summary",
+      "A fictional novel"
+    ],
+    "correct": "Contemporary evidence from the period studied"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "What does 'revisionist history' typically do?",
+    "options": [
+      "Reinterpret established narratives using new evidence",
+      "Repeat popular myths",
+      "Destroy all archives",
+      "Reject primary sources"
+    ],
+    "correct": "Reinterpret established narratives using new evidence"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "Which method emphasizes testing general theories across multiple cases?",
+    "options": [
+      "Comparative history",
+      "Whig history",
+      "Narrative history",
+      "Biographical history"
+    ],
+    "correct": "Comparative history"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "Which term refers to the bias of judging the past by present standards?",
+    "options": [
+      "Presentism",
+      "Anachronism",
+      "Teleology",
+      "Determinism"
+    ],
+    "correct": "Presentism"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "Which subfield studies everyday life and experiences of ordinary people?",
+    "options": [
+      "Social history",
+      "Diplomatic history",
+      "Military history",
+      "Economic history"
+    ],
+    "correct": "Social history"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "What research practice increases reliability in quantitative history?",
+    "options": [
+      "Transparency in sources and coding",
+      "Hiding raw data",
+      "Using only one example",
+      "Ignoring outliers"
+    ],
+    "correct": "Transparency in sources and coding"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "Which source type is oral history?",
+    "options": [
+      "Primary source (interviews)",
+      "Secondary source",
+      "Tertiary source",
+      "Fiction"
+    ],
+    "correct": "Primary source (interviews)"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "Which historiographical 'turn' emphasized symbols, language, and culture (since ~1970s)?",
+    "options": [
+      "Cultural turn",
+      "Political turn",
+      "Economic turn",
+      "Numerical turn"
+    ],
+    "correct": "Cultural turn"
+  },
+  {
+    "question_number": 7,
+    "category": "Geography",
+    "question": "What does 'microhistory' focus on?",
+    "options": [
+      "Detailed study of a small unit to illuminate broader trends",
+      "Large empires only",
+      "Statistical aggregates only",
+      "Mythical accounts"
+    ],
+    "correct": "Detailed study of a small unit to illuminate broader trends"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which primary document begins 'When in the Course of human events'?",
+    "options": [
+      "US Declaration of Independence",
+      "Magna Carta",
+      "US Constitution",
+      "Bill of Rights"
+    ],
+    "correct": "US Declaration of Independence"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which 18th-century French document proclaimed rights of citizens (1789)?",
+    "options": [
+      "Declaration of the Rights of Man and of the Citizen",
+      "Napoleonic Code",
+      "Edict of Nantes",
+      "Treaty of Paris"
+    ],
+    "correct": "Declaration of the Rights of Man and of the Citizen"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which type of archival source best reveals elite diplomatic intentions?",
+    "options": [
+      "Official correspondence and treaties",
+      "Folklore",
+      "Architectural plans",
+      "Tax receipts"
+    ],
+    "correct": "Official correspondence and treaties"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which methodological critique is crucial when using colonial archives?",
+    "options": [
+      "Consider author perspective and power relations",
+      "Assume neutrality",
+      "Ignore provenance",
+      "Translate poorly"
+    ],
+    "correct": "Consider author perspective and power relations"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which eighteenth/nineteenth-century source best reveals popular opinion before mass media?",
+    "options": [
+      "Pamphlets and newspapers",
+      "Royal decrees only",
+      "Treaties only",
+      "Astronomical charts"
+    ],
+    "correct": "Pamphlets and newspapers"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which primary evidence is most useful to study urban economic life historically?",
+    "options": [
+      "Tax records and account books",
+      "Epic poetry",
+      "Military treaties",
+      "Mythical tales"
+    ],
+    "correct": "Tax records and account books"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which analytical approach combines quantitative and qualitative evidence for causal claims?",
+    "options": [
+      "Mixed-methods",
+      "Pure narrative",
+      "Only statistics",
+      "Only archives"
+    ],
+    "correct": "Mixed-methods"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "What is 'prosopography' in historical research?",
+    "options": [
+      "Collective study of biographies to detect patterns",
+      "Study of prisons",
+      "Study of maps",
+      "Study of legends"
+    ],
+    "correct": "Collective study of biographies to detect patterns"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which primary source type can reveal grassroots resistance and petitions?",
+    "options": [
+      "Local petitions and court records",
+      "Treaties only",
+      "Royal portraits",
+      "Government seals"
+    ],
+    "correct": "Local petitions and court records"
+  },
+  {
+    "question_number": 8,
+    "category": "Geography",
+    "question": "Which challenge is common for historians using oral testimony?",
+    "options": [
+      "Memory bias and retrospective reinterpretation",
+      "Complete objectivity",
+      "Eternal accuracy",
+      "No need for corroboration"
+    ],
+    "correct": "Memory bias and retrospective reinterpretation"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which comparative question is useful when studying revolutions?",
+    "options": [
+      "How did social structure influence outcomes?",
+      "What color were the flags?",
+      "Who sang the anthem?",
+      "What was the weather?"
+    ],
+    "correct": "How did social structure influence outcomes?"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which macrohistorical process shaped the 19th–20th century world order?",
+    "options": [
+      "Industrialization and imperialism",
+      "Renaissance only",
+      "Feudal restoration",
+      "Prehistory"
+    ],
+    "correct": "Industrialization and imperialism"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which theme links environmental change with historical transformations?",
+    "options": [
+      "Environmental history",
+      "Military history",
+      "Diplomatic history",
+      "Genealogy"
+    ],
+    "correct": "Environmental history"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which comparative approach helps identify causal mechanisms across cases?",
+    "options": [
+      "Most-similar and most-different systems design",
+      "Random guessing",
+      "Single anecdote",
+      "Ignoring counterexamples"
+    ],
+    "correct": "Most-similar and most-different systems design"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which global process after 1945 reshaped political orders worldwide?",
+    "options": [
+      "Decolonization and Cold War competition",
+      "Renaissance",
+      "Feudal restoration",
+      "Mercantilism"
+    ],
+    "correct": "Decolonization and Cold War competition"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which economic factor often explains the geographic origins of early industrialization?",
+    "options": [
+      "Access to coal, capital, and markets",
+      "Absence of waterways",
+      "Low population density",
+      "Complete isolation"
+    ],
+    "correct": "Access to coal, capital, and markets"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which historiographical debate is central: structure vs. what?",
+    "options": [
+      "Agency",
+      "Geography",
+      "Weather",
+      "Myth"
+    ],
+    "correct": "Agency"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which evidence combination strengthens an argument about popular protest patterns?",
+    "options": [
+      "Cross-regional protest records plus petitions and police reports",
+      "One diary only",
+      "Weather charts alone",
+      "Architectural plans"
+    ],
+    "correct": "Cross-regional protest records plus petitions and police reports"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which methodological caution is crucial in comparative history?",
+    "options": [
+      "Beware of selection bias and ensure comparable cases",
+      "Always choose identical cases",
+      "Ignore context",
+      "Assume causation automatically"
+    ],
+    "correct": "Beware of selection bias and ensure comparable cases"
+  },
+  {
+    "question_number": 9,
+    "category": "Geography",
+    "question": "Which long-term factor can link climate variability to state formation?",
+    "options": [
+      "Agricultural productivity affecting surplus and institutions",
+      "Random chance",
+      "Astrology",
+      "Only elite choices"
+    ],
+    "correct": "Agricultural productivity affecting surplus and institutions"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which synthetic explanation best integrates causes of major revolutions?",
+    "options": [
+      "Interaction of economic stress, political crisis, and cultural shifts",
+      "Only individual leaders",
+      "Only weather",
+      "Pure chance"
+    ],
+    "correct": "Interaction of economic stress, political crisis, and cultural shifts"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which research design is strongest for testing causal claims about development and democracy?",
+    "options": [
+      "Cross-national statistics combined with focused case studies",
+      "Single anecdote",
+      "Only oral sources",
+      "Ignoring data"
+    ],
+    "correct": "Cross-national statistics combined with focused case studies"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which historiographical stance emphasizes longue durée, structures, and material conditions?",
+    "options": [
+      "Structuralist/Annales approach",
+      "Whig history",
+      "Great man theory",
+      "Mythic history"
+    ],
+    "correct": "Structuralist/Annales approach"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which critique must historians apply to quantitative historical datasets?",
+    "options": [
+      "Assess sources, coding choices, and robustness",
+      "Assume perfect accuracy",
+      "Use without documentation",
+      "Hide methods"
+    ],
+    "correct": "Assess sources, coding choices, and robustness"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which comparative synthesis best explains empire decline across centuries?",
+    "options": [
+      "Integrate economic, military, cultural, and environmental factors",
+      "Focus only on battles",
+      "Ignore internal factors",
+      "Study biography alone"
+    ],
+    "correct": "Integrate economic, military, cultural, and environmental factors"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which methodological advance has expanded possibilities for long-term global history recently?",
+    "options": [
+      "Digital databases and GIS-driven spatial analysis",
+      "Only print archives",
+      "Oral tradition alone",
+      "Astrological charts"
+    ],
+    "correct": "Digital databases and GIS-driven spatial analysis"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which standard practice improves transparency and reproducibility in historical research?",
+    "options": [
+      "Publishing datasets, code, and archival citations",
+      "Hiding raw data",
+      "Refusing peer review",
+      "Publishing only narratives"
+    ],
+    "correct": "Publishing datasets, code, and archival citations"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which argument exemplifies synthesis between environmental and social history?",
+    "options": [
+      "Climate variability reduced harvests and reshaped institutions",
+      "Climate never mattered",
+      "Only elites mattered",
+      "Technology is irrelevant"
+    ],
+    "correct": "Climate variability reduced harvests and reshaped institutions"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which research output demonstrates an original scholarly historical contribution?",
+    "options": [
+      "A methodologically sound thesis using new sources or approaches",
+      "A list of dates",
+      "A translation only",
+      "A Wikipedia copy"
+    ],
+    "correct": "A methodologically sound thesis using new sources or approaches"
+  },
+  {
+    "question_number": 10,
+    "category": "Geography",
+    "question": "Which high-level skill is vital for synthesizing large historical literatures?",
+    "options": [
+      "Critical evaluation of evidence, theory building, and clear argumentation",
+      "Memorizing dates only",
+      "Accepting single sources",
+      "Ignoring counterarguments"
+    ],
+    "correct": "Critical evaluation of evidence, theory building, and clear argumentation"
+  }
+]

@@ -73,11 +73,15 @@ def get_categories():
 
 @app.get("/questions/{category}")
 def get_questions(category: str):
+<<<<<<< HEAD
     filtered = [
         q
         for q in ALL_QUESTIONS
         if q["category"].lower() == category.lower()
     ]
+=======
+    filtered = [q for q in ALL_QUESTIONS if q["category"].lower() == category.lower()]
+>>>>>>> f299e3cfdc79586d8dc66edaadfb28bf93c96aba
 
     result = []
 

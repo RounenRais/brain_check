@@ -41,3 +41,14 @@ def login(username, password):
             (username, password)
         )
         return cur.fetchone() is not None
+
+
+def addscore(username, new_score):
+    with sqlite3.connect(DB_PATH) as con:
+        cur = con.cursor()
+        cur.execute(
+            "UPDATE users SET score = ? WHERE username = ?",
+            (new_score, username)
+            )
+        con.commit()
+        return cur.rowcount > 0

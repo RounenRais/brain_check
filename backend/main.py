@@ -1,6 +1,6 @@
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
-from db.auth import sign_up, login
+from db.auth import sign_up, login, addscore
 from pydantic import BaseModel
 import sqlite3
 import os
@@ -17,6 +17,11 @@ class RegUsers(BaseModel):
 class LoginUsers(BaseModel):
     username: str
     password: str
+
+
+class UserScore(BaseModel):
+    username: str
+    score: int
 
 
 app = FastAPI()
@@ -111,3 +116,14 @@ async def verify_login(user: LoginUsers):
     if login(user.username, user.password):
         return {"message": f"Welcome, {user.username}"}
     return {"error": "Wrong username or password"}
+
+
+@app.post("add_score")
+async def add_db(user: UserScore):
+    res = addscore(user.username, user.score)
+
+    if res:
+        return {
+            "username", user.username,
+            "score", user.score
+            }

@@ -12,7 +12,12 @@ with sqlite3.connect(DB_PATH) as con:
             mail TEXT UNIQUE,
             username TEXT UNIQUE,
             password TEXT,
-            score INT DEFAULT 0
+            score INT DEFAULT 0,
+            geography INT DEFAULT 0,
+            history INT DEFAULT 0,
+            math INT DEFAULT 0,
+            science INT DEFAULT 0,
+            technology INT DEFAULT 0
         )
     """)
     con.commit()
@@ -43,12 +48,32 @@ def login(username, password):
         return cur.fetchone() is not None
 
 
-def addscore(username, new_score):
+def addscore(username, new_score, category):
+    allowed = ["geography", "history", "math", "scienca", "tecnology"]
+
+    if category not in allowed:
+        return False
+
     with sqlite3.connect(DB_PATH) as con:
         cur = con.cursor()
+
         cur.execute(
-            "UPDATE users SET score = ? WHERE username = ?",
-            (new_score, username)
+            f"SELECT {category} FROM users WHERE username = ?",
+            (username,)
+        )
+        row = cur.fetchone()
+
+        if row is None:
+            return False
+
+        current_record = row[0]
+
+        if new_score > current_record:
+            cur.execute(
+                f"UPDATE users SET {category} = ? WHERE username = ?",
+                (new_score, username)
             )
-        con.commit()
-        return cur.rowcount > 0
+            con.commit()
+            return True
+
+        return False

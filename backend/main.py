@@ -22,6 +22,7 @@ class LoginUsers(BaseModel):
 class UserScore(BaseModel):
     username: str
     score: int
+    category: str
 
 
 app = FastAPI()
@@ -73,15 +74,12 @@ def get_categories():
 
 @app.get("/questions/{category}")
 def get_questions(category: str):
-<<<<<<< HEAD
+
     filtered = [
         q
         for q in ALL_QUESTIONS
         if q["category"].lower() == category.lower()
     ]
-=======
-    filtered = [q for q in ALL_QUESTIONS if q["category"].lower() == category.lower()]
->>>>>>> f299e3cfdc79586d8dc66edaadfb28bf93c96aba
 
     result = []
 
@@ -122,12 +120,14 @@ async def verify_login(user: LoginUsers):
     return {"error": "Wrong username or password"}
 
 
-@app.post("add_score")
+@app.post("/add_score")
 async def add_db(user: UserScore):
-    res = addscore(user.username, user.score)
+    res = addscore(user.username, user.score, user.category)
 
     if res:
         return {
-            "username", user.username,
-            "score", user.score
-            }
+            "username": user.username,
+            "score": user.score,
+            "category": user.category
+        }
+    return {"error": "Failed to add score"}

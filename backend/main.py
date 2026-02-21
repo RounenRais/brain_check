@@ -74,7 +74,6 @@ def get_categories():
 
 @app.get("/questions/{category}")
 def get_questions(category: str):
-
     filtered = [
         q
         for q in ALL_QUESTIONS
@@ -88,6 +87,7 @@ def get_questions(category: str):
 
         if same_number:
             q = random.choice(same_number)
+            random.shuffle(q["options"])
 
             result.append({
                 "question_number": q["question_number"],

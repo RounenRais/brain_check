@@ -20,6 +20,16 @@ with sqlite3.connect(DB_PATH) as con:
             technology INT DEFAULT 0
         )
     """)
+    cur.execute("""
+        CREATE TABLE IF NOT EXISTS scores (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL,
+            category TEXT NOT NULL,
+            score INT NOT NULL,
+            created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            FOREIGN KEY (username) REFERENCES users(username)
+        )
+    """)
     con.commit()
 
 
@@ -48,17 +58,18 @@ def login(username, password):
         return cur.fetchone() is not None
 
 
-def addscore(username, new_score, category):
-    allowed = ["geography", "history", "math", "scienca", "tecnology"]
+def addscore(username, new_score, category=None):
+    category_key = (category or "").strip().lower()
+    allowed = {"geography", "history", "math", "science", "technology"}
 
-    if category not in allowed:
+    if category_key not in allowed:
         return False
 
     with sqlite3.connect(DB_PATH) as con:
         cur = con.cursor()
 
         cur.execute(
-            f"SELECT {category} FROM users WHERE username = ?",
+            f"SELECT {category_key} FROM users WHERE username = ?",
             (username,)
         )
         row = cur.fetchone()
@@ -66,14 +77,44 @@ def addscore(username, new_score, category):
         if row is None:
             return False
 
-        current_record = row[0]
+        current_record = row[0] or 0
+
+        cur.execute(
+            "INSERT INTO scores (username, category, score) VALUES (?, ?, ?)",
+            (username, category_key, new_score)
+        )
+        cur.execute(
+            "UPDATE users SET score = COALESCE(score, 0) + ? WHERE username = ?",
+            (new_score, username)
+        )
 
         if new_score > current_record:
             cur.execute(
-                f"UPDATE users SET {category} = ? WHERE username = ?",
+                f"UPDATE users SET {category_key} = ? WHERE username = ?",
                 (new_score, username)
             )
-            con.commit()
-            return True
 
-        return False
+        con.commit()
+        return True
+
+
+def get_leaderboard(category, limit=10):
+    with sqlite3.connect(DB_PATH) as con:
+        con.row_factory = sqlite3.Row
+        cur = con.cursor()
+        cur.execute(
+            """
+            SELECT
+                username,
+                MAX(score) AS best_score,
+                COUNT(*) AS attempts,
+                MAX(created_at) AS last_played
+            FROM scores
+            WHERE LOWER(category) = LOWER(?)
+            GROUP BY username
+            ORDER BY best_score DESC, attempts DESC, username ASC
+            LIMIT ?
+            """,
+            (category, max(1, int(limit))),
+        )
+        return [dict(row) for row in cur.fetchall()]

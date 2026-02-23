@@ -1,6 +1,6 @@
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
-from db.auth import sign_up, login, addscore
+from db.auth import sign_up, login, addscore, get_leaderboard
 from pydantic import BaseModel
 import sqlite3
 import os
@@ -97,6 +97,14 @@ def get_questions(category: str):
             })
 
     return {"category": category, "questions": result}
+
+
+@app.get("/leaderboard/{category}")
+def leaderboard(category: str, limit: int = 10):
+    return {
+        "category": category,
+        "leaderboard": get_leaderboard(category, limit)
+    }
 
 
 @app.post("/sign_up")
